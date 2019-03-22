@@ -1,20 +1,20 @@
 const config = {
-  siteTitle: "Kurinsu", // Site title.
-  siteTitleShort: "Kurinsu", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: "Kurinsu", // Alternative site title for SEO.
+  siteTitle: "Cryptisla", // Site title.
+  siteTitleShort: "Cryptisla", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleAlt: "Cryptisla, le trading de cryptos pour débutants", // Alternative site title for SEO.
   siteLogo: "/logos/logo.png", // Logo used for SEO and manifest.
-  siteUrl: "https://kurinsu.com", // Domain of your website without pathPrefix.
+  siteUrl: "https://cryptisla.com", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: "Développement personnel, inspiration et productivité.", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "Découvrir le trading de crypto-monnaies et la blockchain simplement.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "", // FB Application ID for using app insights
-  googleAnalyticsID: "UA-59515367-9", // GA tracking ID.
-  disqusShortname: "kurinsu", // Disqus shortname.
-  postDefaultCategoryID: "developpement", // Default category for posts.
+  googleAnalyticsID: "UA-59515367-8", // GA tracking ID.
+  disqusShortname: "cryptisla", // Disqus shortname.
+  postDefaultCategoryID: "trading", // Default category for posts.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
   userName: "Cala", // Username to display in the author segment.
-  userEmail: "hello@kurinsu.com", // Email used for RSS feed's author segment
+  userEmail: "hello@cryptisla.com", // Email used for RSS feed's author segment
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "", // User location to display in the author segment.
   userAvatar: "https://api.adorable.io/avatars/150/test.png", // User avatar to display in the author segment.
@@ -24,25 +24,25 @@ const config = {
   userLinks: [
     {
       label: "Insta",
-      url: "https://instagram.com/kurinsu",
+      url: "https://instagram.com/cryptisla",
       iconClassName: "fa fa-instagram",
       icon: "/icons/instagram.svg"
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/kurinsu",
+      url: "https://twitter.com/cryptisla",
       iconClassName: "fa fa-twitter",
       icon: "/icons/twitter.svg"
     },
     {
       label: "Facebook",
-      url: "https://facebook.com/kurinsu",
+      url: "https://facebook.com/cryptisla",
       iconClassName: "fa fa-envelope",
       icon: "/icons/facebook.svg"
     },
     {
       label: "Medium",
-      url: "https://medium.com/kurinsu",
+      url: "https://medium.com/cryptisla",
       iconClassName: "fa fa-envelope",
       icon: "/icons/medium.svg"
     }
@@ -53,23 +53,23 @@ const config = {
       link: '/'
     },
     {
-      name: 'productivite',
-      link: '/productivite'
+      name: 'guides',
+      link: '/guides'
     },
     {
-      name: 'inspiration',
-      link: '/inspiration'
+      name: 'trading',
+      link: '/trading'
     },
     {
-      name: 'developpement',
-      link: '/developpement'
+      name: 'blockchain',
+      link: '/blockchain'
     },
     {
       name: 'newsletter',
       link: '#newsletter'
     }
   ],
-  copyright: "Copyright © 2019. Kurinsu", // Copyright string for the footer of the website and RSS feed.
+  copyright: "Copyright © 2019. Cryptisla", // Copyright string for the footer of the website and RSS feed.
   themeColor: "#c62828", // Used for setting manifest and progress theme colors.
   backgroundColor: "#e0e0e0" // Used for setting manifest background color.
 };

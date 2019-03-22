@@ -24,13 +24,11 @@ class PostListingProd extends React.Component {
     const postList = this.getPostList();
     return (
       <section className="post-listing__sub">
-        <h2 className="post-listing__sub_title">⚙️ Productivité ⚙️</h2>
-        <p className="post-listing__sub_construct">Cette page est toujours en construction 🏗️ et ne contient pas encore d'articles. Mais promis, ils sont en cours d'écriture 💻 ☕</p>
-
+        <h2 className="post-listing__sub_title">👨‍🎓 Guides 👨‍🎓</h2>
         <div className="post-listing__container_sub">
             {/* Your post list here. */
             postList.map(post => {
-            if (post.category === 'productivite') {
+            if (post.category === 'guides') {
             return (
                 <div className="post-card" key={post.title}> 
                     <Link to={post.path} key={`${post.title}_prod`}>

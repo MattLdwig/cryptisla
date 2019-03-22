@@ -1,78 +1,128 @@
 ---
-title: "Résoudre ses problèmes grâce à la méthode des 5 pourquoi"
-cover: "/img/posts_cover/five_why.jpg"
-category: "developpement"
+title: "5 erreurs de débutant à éviter en commencant le trading"
+cover: "/img/posts_cover/bug.jpg"
+category: "trading"
 date: "2019/03/20"
-slug: "methode-des-cinq-pourquoi"
-description: "Vous souhaitez régler un problème mais vous ne savez pas par où commencer. Découvrez la méthode des cinq pourquoi, un outil simple pour vous aider à découvrir la source d'un problème."
-tags:
-    - DEVELOPPEMENT PERSONNEL
+slug: "erreurs-debutant-trading"
+description: "Aujourd'hui, nous passons en revue les 5 erreurs les plus fréquentes chez les traders débutant. Laquelle vous semble la plus familière ?."
+tags: 
+  - Débutants 👨‍🎓
 displayDate: '20 mars'
 ---
 
-Nos vies sont pleines de problèmes. 
+Se lancer dans une nouvelle activité n'est jamais évident. On ne sais pas bien par où commencer et on avance tant bien que mal, en naviguant souvent à vue. Au fil du temps et de l'expérience gagnée, les choses ont tendances à devenir plus facile. Mais au début, il faut bien avouer que c'est difficile, et que les erreurs sont nombreuses.
 
-Petits problèmes du quotidien ou gros soucis qui semblent insurmontables, nous devons tous, chaque jour, faire face à une miriade de situations problèmatiques.
+L'avantage, c'est que ce sont les erreurs qui vous permettent d'apprendre. Sans elles, aucune progression n'est possible. Le problème, c'est qu'en trading, les erreurs ont la fâcheuse tendance à vous coûter de l'argent. 
 
-Hors, bien souvent, nous avons tendance à répondre à ces situations de manière *réactive*. Pressé de résoudre le plus rapidement possible le problème posé, nous concentrons notre énergie sur ses le traitement de ses symptômes plutôt que sur ses causes profondes. 
+Si les erreurs d'apprentissage sont souhaitables, il en existe certaines qui peuvent rapidement vous mener à la ruine. Il peut donc être intéressant de les connaître avant de se lancer. 
 
-Si cette approche peut être très efficace pour gérer les simples problèmes du quotidien, elle montre rapidement ses limites face à des situations plus périlleuse ou face à des problèmes récurrents. 
+Voici cinq des erreurs les plus fréquentes chez les traders novices: 
 
-Pour résoudre ce genre de cas, il va falloir creuser un peu. C'est ici qu'intervient la **méthode des 5 pourquoi**. 
+## **All-in**
 
-## La méthode des cinq pourquoi ?
+![all-in](https://media.giphy.com/media/26BRB0vY34nq6ZvmU/giphy.gif)
 
-La méthode des cinq pourquoi est un outil incroyablement simple permettant de trouver la **source du problème** auquel vous faite face. Elle se base sur une chose que nous savions parfaitement faire lorsque nous étions enfant: répéter inlassablement la même question, **pourquoi**. 
+De cette liste, voici surement l'erreur la plus dangereuse. Et l'une des plus communes chez les traders débutants. **Le All-in**. Tout miser sur un trade en espérant doubler la mise rapidement. 
 
-Le processus est simple:
+Dans la liste des mauvais choix, le all-in arrive sans conteste en première place. 
 
-1. Prenez votre problème et inscrivez le sur une feuille de papier.
-2. Posez vous la question: **Pourquoi ?** et inscrivez la réponse sur la ligne suivante (en essayant d'être aussi synthétique et précis que possible).
-3. A partir de cette réponse, demandez-vous à nouveau **Pourquoi ?**
-4. Répéter l'opération trois fois de plus, en cherchant à chaque étape le **Pourquoi ?** de votre réponse précédente. 
-5. Au bout de cinq pourquoi, prenez un moment pour vous demander si vous avez réussi à identifier la réelle source de votre problème.
-   - Si oui, inscrivez les solutions qui vous viennent à l'esprit pour le résoudre.
-     - Si non, continuez le processus jusqu'à atteindre un niveau de compréhension du problème que vous estimez satisfaisant.
+Connaissez-vous le pourcentage de traders qui abandonnent au cours des 12 premiers mois? 80%. 8 traders sur 10 perdent la totalité de leur capital de départ en moins d'un an. La raison? Les traders novices prennent rarement les bonnes décisions. 
 
-Les "vrais" problèmes sont comme des icebergs Ils ne laissent apparaître qu'une infime portion de ce qu'ils sont vraiment.
+Lorsque vous débutez, vous allez vous tromper. Vous aller même avoir tord plus souvent que raison. 
 
-![iceberg](./img/iceberg.jpg)
+Avoir tord et perdre 1% de son capital, ça fait partie du métier. Avoir tord et perdre son capital parce qu'on a fait le choix de all-in, c'est beaucoup plus problématique.
 
-C'est ce qu'avait compris l'industriel japonais Sakichi Toyada. Fondateur de l'entreprise Toyota, Sakichi Toyada a développée cette méthode pour **résoudre les problèmes** rencontrés au sein de son entreprise. 
+Pour être profitable sur le long terme, il est nécessaire de savoir manager le risque. Les petites pertes contrôlées sont facilement recouvrables. Les grosses pertes induites par un coup de poker aléatoire le sont beaucoup moins. 
 
-Sa force provient de sa simplicité. En se concentrant la répétition d'une question simple, elle nous force à nous concentrer sur la partie immergée de l'iceberg. Celle où se cache les **réelles causes** du problèmes qui nous préoccupe.
+Vous rêver d'argent rapide obtenu sur un coup de dés? Tentez plutôt votre chance à la roulette, vos chances seront sans doute plus élevées.
 
-## Exemple pratique
+## **Trader sans plan**
 
-Imaginons que vous vouliez perdre quelques kilos avant l'été, mais que vous n'y parveniez pas.
+![map](https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif)
 
-1. Problème de base: "Je n'arrive pas à perdre du poid."
-2. **Pourquoi ?**: "Parce que je grignote toujours devant la TV".
-3. **Pourquoi ?**: "Parce que c'est un moment agréable et un plaisir que j'ai du mal à me refuser". 
-4. **Pourquoi ?**: "Parce que j'accumule beaucoup de stress tout au long de la journée et que j'ai besoin d'un exhutoire le soir venu."
-5. **Pourquoi ?**: "Parce que je ne suis pas épanoui·e dans mon travail."
-6. **Pourquoi ?**: "Parce que je n'occupe pas le poste que je souhaiterai."
+> Échouer dans la planification, c'est planifier son échec.
 
-A ce stade, vous avez déjà une **connaissance plus profonde** du réel problème. Et, comme vous le voyez, la difficulté à perdre du poid n'est qu'un effet découlant d'un problème bien plus important. Il est toujours possible d'ignorer ces causes profondes (en se mettant au régime sans chercher à résoudre les difficultés sous-jascentes), mais le risque est alors grand que le problème réapparaisse (une fois le régime terminé).
+Le plan. Pas l'aspect le plus attirant du métier il faut l'avouer. Mais un indispensable si vous voulez survivre sur le marché. Malheureusement, de nombreux traders débutants passe outre cette étape cruciale.
 
-## Une fois le problème identifié, il est temps de trouver des solutions.
+Mais qu'est-ce qu'un plan au fait?
 
-Si la **méthode des cinq pourquoi** se limite à ... cinq pourquoi, ce n'est pas une règle absolue. Rien ne vous empêche de creuser encore plus profondément pour découvrir les racines de la difficulté qui vous occupe. 
-Une fois ceci fait, il ne reste plus qu'à lister quelques actions enviseagables pour y remédier. Passer un moment à brainstormer, en laissant les idées affluer **sans les juger**.  
+Un plan de trading est un ensemble de règles qui définissent votre stratégie.
 
-Par exemple, pour résoudre le problème "Je n'occupe pas le poste que je souhaiterai", je pourrai:
+Il comporte (au moins):
 
-- Prendre des cours du soir pour me former à un nouveau métier
-- Chercher un nouveau job plus en phase avec mes ambitions
-- Parler de ma situation à un supérieur pour trouver une solution
+- Vos stratégies d'entrées en position
+- Vos stratégies de sortie de position
+- Vos stratégie de prise de bénéfices
+- Votre pourcentage de perte accepté par trade
+- Les timeframes que vous allez trader
 
-Dans le même temps, je pourrai aussi chercher une nouvelle activité détendante que je pourrai pratiquer en soirée, et ainsi éviter le risque de grignoter devant la TV. Ainsi, tout en commencant à régler le problème de fond, je m'attaquerai également au problème *immédiat*. 
+Votre plan est votre boussole. Lorsque vous doutez d'une décision, référez vous à votre plan. Lorsque vous êtes pris d'une envie impulsive, référez vous à votre plan. Le plan est votre guide. Quoi qu'il arrive.
 
-Listez toute les idées de solutions qui vous viennent à l'esprit puis accordez vous un moment de repos. Quelques heures plus tard (ou le lendemain par exemple), reprennez votre liste d'idées et faite le tri. Ne reste plus qu'à sélectionner les solutions qui vous semblent les plus appropriées (en essayant d'en trouver au moins une applicable immédiatement) et à les mettre en place dans votre quotidien. 
+Une fois votre plan créé, tester le en mode démo. Si les résultats sont concluants après quelques temps, vous serez alors prêt à vous lancer en mode réel.
 
-### Et vous, comment allez-vous appliquer la méthode des 5 pourquoi ?
+Attention cependant, le plan n'est pas un objet figé pour l'éternité. Si vous constatez que votre stratégie ne fonctionne plus, recommencez le processus. Élaborer une nouvelle stratégie, testez là et référez-vous y jusqu'au prochains changements.  
 
-Je suis certain que vous avez, vous-aussi, des problèmes *icebergs* que vous aimeriez résoudrent. Alors, pourquoi ne pas essayez d'en découvrir la source avec la **méthode des 5 pourquoi** ?
+## **Se passer de Stop Loss**
 
-Je serai heureux de découvrir vos expériences. Est-ce que cette méthode à fonctionnée pour vous ? Qu'avez-vous découvert sur vous même ? 
+Trader sans Stop Loss, c'est un peu comme faire une randonnée au beau milieu d'une autoroute. Si vous êtes chanceux, vous pourrez sans doute faire quelques pas. Mais il est peu probable que vous puissiez vous en sortir vivant au final.
 
+Le Stop Loss est votre ami. Un ami que vous détesterez parfois. Surtout dans la crypto. Mais sur le long terme, il vous sauvera la vie un nombre incalculable de fois. 
+
+Aucun trader n'a juste 100% du temps. De nombreux traders profitables ne gagnent que 70%, 50% ou même 30% de leurs trades. L'important n'est pas d'avoir juste, c'est que le total de vos gains dépassent le total de vos pertes. 
+
+Et pour ça, rien de mieux qu'un Stop Loss qui fera le désagréable travail de vous sortir de position par la force dans les moments difficiles. 
+
+## **Laisser courir ses pertes**
+
+![homer-hide](https://media.giphy.com/media/3ohs7KViF6rA4aan5u/giphy.gif)
+
+Connaissez vous l'effet de disposition? Derrière ce mot étrange se cache notre incapacité à sortir d'une position perdante.
+
+Nos émotions (égo, affect...) prennent le dessus sur notre côté rationnel. Et nous poussent à prendre de mauvaises décisions. 
+
+### En position perdante
+
+Si vous êtes perdant sur une position, référer vous à votre plan et ne reculer pas votre Stop Loss. Ces règles ont été établis lorsque vous aviez les idées claires. 
+
+Ne laisser pas vos émotions prendre le dessus et ne passer pas en 'mode espoir'. Si vous aviez décidé d'une limite de sortie, c'est qu'il y avait une raison. Dans le doute, faite confiance à votre moi du passé.
+
+Une exception: si vous êtes certain que vos pertes vont augmenter : coupez votre trade manuellement. Il sera toujours temps de re-rentrer à un niveau plus intéressant.
+
+### En position gagnante 
+
+A l'inverse, lorsque vous êtes en position gagnante: résistez à la tentation d'encaisser vos profits le plus rapidement possible.
+
+Distribuez vos prises de gains sur des niveaux clés. Une fois votre premier gain encaissé, déplacez votre Stop Loss au niveau de votre point d'entrée. Vous ne savez pas jusqu'où vos profits peuvent aller, autant les maximiser.
+
+## **Chercher la solution miracle**
+
+![mind-blow](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
+Derniere erreur courante du trader novice. Et non des moindres. La recherche de la solution miracle.
+
+Nous sommes tous passés par cette phase. Celle où l'on peine à comprendre ce nouvel univers et où l'on cherche un guide à suivre aveuglement.
+
+Malheureusement, la solution micracle n'existe pas.
+
+Il n'y a ni stratégie 100% gagnante, ni combinaison d'indicateurs magique. 
+
+Pendant cette phase de recherche:
+
+- au mieux vous perdrez votre temps. 
+- au pire vous dépenserez de l'argent dans une solution magique qui vous décevra vite. 
+
+De nombreux traders gagnent leurs vies confortablement en utilisant que quelques indicateurs. Pour certains, la courbe des prix est même amplement suffisante.
+
+Posez vous la question: si des formules magiques existaient réellement, pourquoi serait-elles rendues publiques? Pourquoi ceux qui affirment les détenir ne les utilisent-ils pas?
+
+Il est également important d'avoir des attentes réalistes lorsque l'on débute le trading. Les chances sont minces pour que vous fassiez fortune durant les premiers mois. 
+
+Mais ne pas faire partie des 80% de traders qui abandonnent, rincés, semble déjà une belle victoire. A partir de là, il sera toujours temps de passer à l'étape supérieure.
+
+## Conclusion
+
+Si vous vous reconnaissez dans certaines de ces erreurs , ne vous en voulez pas. Ce sont des erreurs que la plupart des novices ont commises. Des erreurs que j'ai **moi-même** commises à mes débuts (parmi beaucoup d'autres). 
+
+Et n'oubliez pas que savoir reconnaitre ses erreurs est le premier pas vers la réussite. Une fois ceci fait, il n'y a plus qu'à éviter de les répéter.
+
+Et vous, quelles erreurs avez-vous commises à vos débuts?

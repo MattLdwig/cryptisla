@@ -16,16 +16,16 @@ module.exports = {
         link: '/'
       },
       {
-        name: 'productivite',
-        link: '/productivite'
+        name: 'guides',
+        link: '/guides'
       },
       {
-        name: 'inspiration',
-        link: '/inspiration'
+        name: 'trading',
+        link: '/trading'
       },
       {
-        name: 'developpement',
-        link: '/developpement'
+        name: 'blockchain',
+        link: '/blockchain'
       },
       {
         name: 'newsletter',

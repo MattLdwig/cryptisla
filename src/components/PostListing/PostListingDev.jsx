@@ -24,11 +24,12 @@ class PostListingDev extends React.Component {
     const postList = this.getPostList();
     return (
       <section className="post-listing__sub">
-        <h2 className="post-listing__sub_title">🕊️ Développement personnel 🕊️</h2>
+        <h2 className="post-listing__sub_title">🤝 Blockchain 🤝</h2>
+        <p className="post-listing__sub_construct">Cette page est toujours en construction 🏗️ et ne contient pas encore d'articles. Mais promis, ils sont en cours d'écriture 💻 ☕</p>
         <div className="post-listing__container_sub">
             {/* Your post list here. */
             postList.map(post => {
-            if (post.category === 'developpement') {
+            if (post.category === 'blockchain') {
             return (
                 <div className="post-card" key={post.title}> 
                     <Link to={post.path} key={`${post.title}_dev`}>
