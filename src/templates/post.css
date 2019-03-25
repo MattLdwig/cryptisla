@@ -24,7 +24,8 @@
 }
 
 .post-container a {
-    color: var(--accentColor);
+    color: var(--accentColor) !important;
+    font-weight: bold;
 }
 
 .post-container a:hover {
