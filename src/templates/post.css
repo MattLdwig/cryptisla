@@ -22,3 +22,11 @@
 .post-container li {
     margin: 0.75em 0;
 }
+
+.post-container a {
+    color: var(--accentColor);
+}
+
+.post-container a:hover {
+    color: var(--textColor);
+}
