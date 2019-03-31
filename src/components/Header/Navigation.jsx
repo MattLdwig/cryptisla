@@ -10,19 +10,13 @@ class Navigation extends Component {
     this.state = {
       isOpen: false
     }
-
-    this.toggleNav = this.toggleNav.bind(this);
-  }
-
-  toggleNav() {
-    this.setState({
-      isOpen: !this.state.isOpen
-    })
   }
 
   render() {
     const { config } = this.props;
     const url = config.menuLink;
+    const isMobile = config.isMobile ? 'item visible' : 'item hidden';
+
     return (
         <nav id="menu">
         <ul className="primary-nav__items">
