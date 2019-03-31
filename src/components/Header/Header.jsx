@@ -1,5 +1,8 @@
 import React, { Component } from "react";
 import { Link } from "gatsby";
+import Navigation from './Navigation';
+import MediaQuery from 'react-responsive';
+import OffCanvas from 'react-aria-offcanvas';
 import UserLinks from "../UserLinks/UserLinks";
 import "./Header.css";
 
@@ -18,6 +21,11 @@ class Header extends Component {
       isOpen: !this.state.isOpen
     })
   }
+
+  open = () => {
+    this.setState({ isOpen: !this.state.isOpen })
+  }
+
 
   render() {
     const { config } = this.props;
@@ -40,14 +48,21 @@ class Header extends Component {
             <div className="nav-toggle__bar"></div>
           </div>
           </div>
-          <nav className={isOpen}>
-            <ul className="primary-nav__items">
-              <li className="item"><Link to={url[1].link}>👨‍🎓 GUIDES</Link></li>
-              <li className="item"><Link to={url[2].link}>📈 TRADING</Link></li>
-              <li className="item"><Link to={url[3].link}>🤝 BLOCKCHAIN</Link></li>
-              <li className="item no-margin"><Link to={url[4].link}>💌 NEWSLETTER</Link></li>
-            </ul>
-          </nav>
+          <MediaQuery maxWidth={1100}>
+            <OffCanvas
+              isOpen={this.state.isOpen}
+              onClose={this.open}
+              labelledby="nav-toggle"
+              height={"100vh"}
+              className={'nav__offCanvas'}
+
+              >
+                <Navigation config={config} />
+              </OffCanvas>
+          </MediaQuery>
+          <MediaQuery minWidth={1101}>
+            <Navigation config={config}/>
+          </MediaQuery>
         </div>
       </header>
     );

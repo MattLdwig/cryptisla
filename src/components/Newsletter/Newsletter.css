@@ -100,5 +100,13 @@
 
 }
 
+@media screen and (max-width: 320px) {
+	.form-control,
+	.btn {
+		width: 180px;
+	}
+
+}
+
 
 
