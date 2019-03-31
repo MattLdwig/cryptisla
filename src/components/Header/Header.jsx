@@ -55,7 +55,7 @@ class Header extends Component {
               labelledby="nav-toggle"
               height={"100vh"}
               className={'nav__offCanvas'}
-
+              returnFocusAfterClose={false}
               >
                 <Navigation config={config} isMobile={true} navToggle={this.open} />
                 <div onClick={this.open} class="close"></div>
