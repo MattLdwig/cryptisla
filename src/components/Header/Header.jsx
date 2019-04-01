@@ -58,7 +58,7 @@ class Header extends Component {
               returnFocusAfterClose={false}
               >
                 <Navigation config={config} isMobile={true} navToggle={this.open} />
-                <div onClick={this.open} class="close"></div>
+                <div onClick={this.open} className="close"></div>
               </OffCanvas>
           </MediaQuery>
           <MediaQuery minWidth={1101}>
