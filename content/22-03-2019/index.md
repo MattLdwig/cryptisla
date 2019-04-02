@@ -1,5 +1,5 @@
 ---
-title: "4 exchanges pour commencer à trader les cryptos en 2019"
+title: "5 exchanges pour trader les cryptos en 2019"
 cover: "/img/posts_cover/exchanges.jpg"
 category: "guides"
 date: "2019/03/22"
@@ -10,7 +10,7 @@ tags:
 displayDate: '22 mars'
 ---
 
-Alors que les crypto-monnaies deviennent chaque jour un peu plus populaires, le nombre d'exchanges présents sur le marché explose. Ils se comptent aujourd'hui par dizaines et faire le tri n'est pas toujours évident. Pour vous aider à faire un choix, passons en revue les 5 meilleurs exchanges pour commencer à trader les cryptos lorsque l'on débute.
+Alors que les crypto-monnaies deviennent chaque jour un peu plus populaires, le nombre d'exchanges présents sur le marché explose. Ils se comptent aujourd'hui par dizaines et faire le tri n'est pas toujours évident. Pour vous aider à faire un choix, passons en revue les **5 meilleurs exchanges pour commencer à trader les cryptos** lorsque l'on débute.
 
 Mais d'abord, qu'est-ce qu'un exchange exactement, et à quoi servent-ils ?
 
@@ -68,7 +68,7 @@ Anciennement GDAX, Coinbase Pro est la plateforme de trading associée à Coinba
 
 En effet, si vous décidez d'acheter et de revendre du Bitcoin (ou d'autres monnaies disponibles chez Coinbase) régulièrement pour profiter des mouvements du marché, les frais inhérents au service pourraient bien avoir raison de vos profits. 
 
-Il est alors bien plus intéressant de migrer ses fonds vers Coinbase Pro pour effectuer ses opérations et de profiter de frais bien plus réduits (0.15% de moyenne).
+Il est alors bien plus intéressant de migrer ses fonds vers Coinbase Pro pour effectuer ses opérations et de profiter de frais bien plus réduits (0.20% de moyenne).
 
 En quelques clics depuis votre compte Coinbase, vous pourrez transférez vos cryptos et commencer à trader en disposant de tous les outils nécessaires.
 
