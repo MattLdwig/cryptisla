@@ -1,4 +1,629 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Cryptisla]]></title><description><![CDATA[Découvrir le trading de crypto-monnaies et la blockchain simplement.]]></description><link>https://cryptisla.com/</link><image><url>https://cryptisla.com//logos/logo-512.png</url><title>Cryptisla</title><link>https://cryptisla.com/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Tue, 02 Apr 2019 06:39:52 GMT</lastBuildDate><atom:link href="https://cryptisla.com//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2019. Cryptisla]]></copyright><item><title><![CDATA[Comprendre les bougies japonaises: la lecture des bougies.]]></title><link>https://cryptisla.com//comprendre-bougies-japonaise-partie-lecture-bougies</link><guid isPermaLink="false">https://cryptisla.com//comprendre-bougies-japonaise-partie-lecture-bougies</guid><category><![CDATA[Débutants 👨‍🎓]]></category><pubDate>Sun, 31 Mar 2019 22:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;quest-ce-quune-bougie-japonaise-&quot;&gt;&lt;a href=&quot;#quest-ce-quune-bougie-japonaise-&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Qu&apos;est-ce qu&apos;une bougie japonaise ?&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Cryptisla]]></title><description><![CDATA[Découvrir le trading de crypto-monnaies et la blockchain simplement.]]></description><link>https://cryptisla.com/</link><image><url>https://cryptisla.com//logos/logo-512.png</url><title>Cryptisla</title><link>https://cryptisla.com/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Mon, 08 Apr 2019 12:47:01 GMT</lastBuildDate><atom:link href="https://cryptisla.com//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2019. Cryptisla]]></copyright><item><title><![CDATA[Les bougies japonaises, les principaux patterns]]></title><link>https://cryptisla.com//bougies-japonaises-principaux-patterns</link><guid isPermaLink="false">https://cryptisla.com//bougies-japonaises-principaux-patterns</guid><category><![CDATA[Débutants 👨‍🎓]]></category><pubDate>Sun, 07 Apr 2019 22:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;les-bougies-japonaises-reflets-de-la-psychologie-du-marché&quot;&gt;&lt;a href=&quot;#les-bougies-japonaises-reflets-de-la-psychologie-du-march%C3%A9&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Les bougies japonaises, reflets de la psychologie du marché&lt;/h2&gt;
+&lt;p&gt;Le marché se résume à une opposition entre deux forces contraires. D&apos;un côté les acheteurs, poussant pour une hausse des prix. De l&apos;autre les vendeurs, cherchant à l&apos;inverse à faire plonger les cours. Lorsque les deux camps se neutralisent, le prix reste stable, mais si l&apos;une des parties prend le dessus, alors une direction est donnée, un mouvement s&apos;amorce et le sentiment de marché prend un biais tendanciel. &lt;/p&gt;
+&lt;p&gt;C&apos;est sur ce concept de &lt;strong&gt;sentiment de marché&lt;/strong&gt; qu&apos;interviennent nos fameuses bougies. En nous fournissant le détail des mouvements de prix, elles nous renseignent sur le sentiment dominant et sur la psychologie des acteurs.&lt;/p&gt;
+&lt;p&gt;Pour illustrer cela, prenons quelques exemples de bougies parmi les plus classiques et tentons de définir la &lt;strong&gt;psychologie de marché&lt;/strong&gt; qui en découle: &lt;/p&gt;
+&lt;h3 id=&quot;les-bougies-isolées&quot;&gt;&lt;a href=&quot;#les-bougies-isol%C3%A9es&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Les bougies isolées&lt;/h3&gt;
+&lt;h4 id=&quot;les-marobuzu&quot;&gt;&lt;a href=&quot;#les-marobuzu&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Les marobuzu&lt;/h4&gt;
+&lt;h5 id=&quot;marobuzu-haussier&quot;&gt;&lt;a href=&quot;#marobuzu-haussier&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Marobuzu haussier&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3675fd05af6b341e0819caba748e8d3b/9da08/marobuzu_h.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAA9UlEQVQ4y+2UzWrCQBSFQwXblY+gtFgaV76+uBN3gVQCQyGLgII+gAghmb9Tz4gSi0k6ZJOFQw5zuHP55uYm3AAPlrUWTavpPKhL5q6UQlEUN0kpXex6/ghcC9RaI8syCCEQRRGSJEEcx0jT9O5SrwqNMTDWQGkFbTSkku4iL+Alk099n+wl4f89vN7M6g7lHrty60TPmFcPq6+SmxzznxlGmzcnesaavnQr8FNMMIgDJ/rOwFB84PU7cKLvDPwS7xieYRT9E9gDYFgBhr0ETsUYL+efmqLvBNRWY31aYXlcONEz5g1sm8peE/vvTGRFVTXNQq5fyxrX4wlmL0MAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;marobuzu haussier&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3675fd05af6b341e0819caba748e8d3b/9da08/marobuzu_h.png&quot;
+        srcset=&quot;/static/3675fd05af6b341e0819caba748e8d3b/20774/marobuzu_h.png 190w,
+/static/3675fd05af6b341e0819caba748e8d3b/4e117/marobuzu_h.png 380w,
+/static/3675fd05af6b341e0819caba748e8d3b/9da08/marobuzu_h.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Imaginons que vous voyez en face d&apos;une grosse bougie verte comme celle ci-dessus. Que peut-on en déduire ? C&apos;est vert, donc haussier. &lt;/p&gt;
+&lt;p&gt;L&apos;ouverture se trouve donc en bas du corps et la clôture en haut. Aucune ombre n&apos;apparaît, c&apos;est qu&apos;il n&apos;y a pas eu d&apos;excès (le plus bas correspond à l&apos;ouverture, le plus haut à la clôture). &lt;/p&gt;
+&lt;p&gt;Ici, il est clair que &lt;strong&gt;les acheteurs ont pris la main&lt;/strong&gt; durant toute la durée de la bougie sans laisser la moindre chance aux vendeurs. Le sentiment de marché est donc &lt;strong&gt;purement haussier&lt;/strong&gt;.&lt;/p&gt;
+&lt;h5 id=&quot;marobuzu-baissier&quot;&gt;&lt;a href=&quot;#marobuzu-baissier&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Marobuzu baissier&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d7a745a4b67f001de19a388cc898ab2d/9da08/marobuzu_b.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAA60lEQVQ4y+1UuwqDQBC0iJB0foWSVH5/Wkux0EKwM4i/EFTOm9y4EY7EJ7YeDDu3s45zJ+jAWlpr7FlT886vyKqUQtu2aJpmqETXdQPYI8jHedv4z5BmVVUhz3MkSYI0TRHHMbIsQ1EUA2e/LMt1w1Ho+172pvbmBcqkIcipjfrUsZ0t97J2h4tHHpNyx4S6rqFfLwE5exPzswm/U1LfbyAMAc8TkLNnz8x95VnDIABcV0B+2PDxAG43Aflhw/sduF4F5KfhabjB0PeBy0VAfsjQ/F0QRcDzKSBnb7fhwgNr2nJCViayYWsT6wPj79+3qZmdhgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;marobuzu baissier&quot;
+        title=&quot;&quot;
+        src=&quot;/static/d7a745a4b67f001de19a388cc898ab2d/9da08/marobuzu_b.png&quot;
+        srcset=&quot;/static/d7a745a4b67f001de19a388cc898ab2d/20774/marobuzu_b.png 190w,
+/static/d7a745a4b67f001de19a388cc898ab2d/4e117/marobuzu_b.png 380w,
+/static/d7a745a4b67f001de19a388cc898ab2d/9da08/marobuzu_b.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A l&apos;inverse, ici ce sont les vendeurs qui se sont rendus maîtres du marché, ne laissant aucune place aux acheteurs. Le sentiment est donc &lt;strong&gt;purement baissier&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4 id=&quot;dojis-et-spinning-top&quot;&gt;&lt;a href=&quot;#dojis-et-spinning-top&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Dojis et Spinning Top&lt;/h4&gt;
+&lt;h5 id=&quot;dojis&quot;&gt;&lt;a href=&quot;#dojis&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Dojis&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8acd151487406738b266046d1b21c9b5/9da08/dojis.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAABGklEQVQ4y81TyYqAMAz1/z/NgzfFg4ggiPsO7mZ4gUqV1noYhgmEpu3Ly9LUIo2c58mqu9OJZXJY15WWZblU3OlIXwmP4yDXdcn3fXIch2zbNmb5SogVpFj3fWeV26EitWRnlf3WWyXh8+JpP9VYstyvbduUYJmsaRot7kY4jiMVRaHNTOCSJOHX1uEuwmmaqKoq45zlec7VaOcQzsgOkcMwZBsOwzBwedC+72meZ2rbloIg4EqwFxicA3NlWNc1RVHE8wYbhADGcUye57GNQFmWsaZpyntgxVlZlveSEREAuWQ0X/T1q1yESB+RZEL0Fa0QU6B7LOWjIMOu626E+Mco1/RQnwb7yxC/lqz6UqZv9jeE9Mvy/wl/AC0iK2kALyQKAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Dojis&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8acd151487406738b266046d1b21c9b5/9da08/dojis.png&quot;
+        srcset=&quot;/static/8acd151487406738b266046d1b21c9b5/20774/dojis.png 190w,
+/static/8acd151487406738b266046d1b21c9b5/4e117/dojis.png 380w,
+/static/8acd151487406738b266046d1b21c9b5/9da08/dojis.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nouvel exemple. Ici, l&apos;on peut voir un corps extrêmement fin, accompagné ou non de mèches vers le haut ou le bas. La finesse du corps nous indique que le cours n&apos;a quasi pas varié entre l&apos;ouverture et la clôture. &lt;/p&gt;
+&lt;p&gt;Des tentatives de prise de contrôle ont peut-être eu lieu dans l&apos;un ou l&apos;autre des camps (ou les deux, comme sur la première bougie, composée d&apos;une mèche basse et d&apos;une mèche haute), mais se sont soldées par des échecs. &lt;/p&gt;
+&lt;p&gt;Les deux camps se neutralisent complètement, &lt;strong&gt;le marché hésite et le sentiment est neutre&lt;/strong&gt;. &lt;/p&gt;
+&lt;h5 id=&quot;spinning-top&quot;&gt;&lt;a href=&quot;#spinning-top&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Spinning top&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3785c31f2b4b2be58e5e7e507204824b/9da08/spinning_top.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAABd0lEQVQ4y+VUQUrDQBSdXY/gysu4keLGRQ/RtQtXgj2AIPQCgtCVeIHuRYVsKmnB0BQKplSiDTEhsU1nnpNMkk7itInQnR8+k5n5/83/816GQDLGWD7ucjmmbKQMWE6glBY8W9sGSqAw1cl1Y4gqKK5gOp3CNE1omobhcIjBYIDRaARd1zGZTOpVKG/6vg/P82DbNhzHSXw+n8N13eS7fstsTy3LZMjABY9JyWLiuQKYqBgOaABrZakPsvh6EGRJwqvuMKQhjPBVEMSEVJBKBYbBA8IN4LaW12ydjI/eA07HJzg2jnD+doaIRiI35FW120CzCbRa4NQjlYQaMGIi8fbjBuSJgDwTHL4cYEWXAtD7AhoNnkGE9/tpJWs1YNxabOb3GNfvV7i0LnDv3OWVsyUH7vWATgfodoHZbHeFMmhy9ykp+R3KpOQJtJ5sQs7yIvrcgGX7McBiIUjJ5VUhbFlXv8Qrz//yL5dfnQKA3H7V87UP+4eAPxAmFKE7sMZWAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Spinning top&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3785c31f2b4b2be58e5e7e507204824b/9da08/spinning_top.png&quot;
+        srcset=&quot;/static/3785c31f2b4b2be58e5e7e507204824b/20774/spinning_top.png 190w,
+/static/3785c31f2b4b2be58e5e7e507204824b/4e117/spinning_top.png 380w,
+/static/3785c31f2b4b2be58e5e7e507204824b/9da08/spinning_top.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dans le même esprit de neutralité, on trouve les &lt;strong&gt;Spinning top&lt;/strong&gt;. Un corps assez fin, accompagné de deux mèches d&apos;approximativement même longueur. Pendant la durée de cette bougie, les deux camps ont bataillé, mais aucun n&apos;a vraiment pris un avantage significatif.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Le marché est dans l&apos;indécision&lt;/strong&gt; et il faudra attendre la bougie suivante pour espérer voir se dégager un mouvement.&lt;/p&gt;
+&lt;h4 id=&quot;marteau-et-pendu-hammer-et-hanging-man&quot;&gt;&lt;a href=&quot;#marteau-et-pendu-hammer-et-hanging-man&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Marteau et pendu (Hammer et Hanging Man)&lt;/h4&gt;
+&lt;p&gt;Un petit corps, pas d&apos;ombre haute (ou presque) et une longue ombre basse. Voici les caractéristiques de ces deux bougies: le &lt;strong&gt;marteau&lt;/strong&gt; et le &lt;strong&gt;pendu&lt;/strong&gt;. Deux bougies qui indiquent un &lt;strong&gt;changement de sentiment dominant&lt;/strong&gt; sur le marché.&lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;&lt;em&gt;Ici, les couleurs des bougies n&apos;ont qu&apos;une importance limitée, ce qui compte c&apos;est leur timing d&apos;apparition.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h5 id=&quot;le-marteau-hammer&quot;&gt;&lt;a href=&quot;#le-marteau-hammer&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Le marteau (Hammer)&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/99ec1fb8a48f9bd7ddcba154c929ab7d/9da08/marteau.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAB5UlEQVQ4y51UTWsiQRCdf5JcNvdAYGF/iqCigh70P3gTRRRFBRG9i+hFlg25xBBvBnLQgXgKJsFksmoIa9AdnZmXVJsedewZSQqarumaev3qqyXYiGEY+I5NcnLQdR2qqm4tTdMcQSVutC4SRVEgyzK63S76/T46nQ6GwyGcfCTRTZsMSec7sSPdjiGdSXbUv5NDBsiVWq2GRCKBer1uOojC2gyv0Wgwn2q1ajI3AZPJJNxuN1Kp1BagdSdHnoJMJgOv18tAdwCz2SyCwSByuZyQjShMAvR4PGLAdDoNv9/PgCn5k8lkK2wSOm82m6hUKmi1Wqzy7XYbvV5vXWXuVCgUEIlEUCwWMZ1OMRgMWN9tAi6XS0SjUbhcLuTzeeeizOdzzGYztohlOBxGuVxetY+hm4AUXigUMm28lWz7kL7JyefzrVl8/kKAsVgMgUAApVJpJyU7k8JvpEpTgSh8dmZoH5gGA4zH48zGGQoBrVWk8bq6vsL/FxV/Xn/jh3yAI/kQZ6+nePv7htu7W4xGI2dAa7+NX8ZMv/h3jp83x/jVP0F7erl3YoQMefNq+upleVo8YrIcb9ms02T7fG0auX6nDqAsnoQAju+haIZJHtR7PC+UrwPasaUq09r3Cu0FtEuBk7wD45riklc79EAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;marteau&quot;
+        title=&quot;&quot;
+        src=&quot;/static/99ec1fb8a48f9bd7ddcba154c929ab7d/9da08/marteau.png&quot;
+        srcset=&quot;/static/99ec1fb8a48f9bd7ddcba154c929ab7d/20774/marteau.png 190w,
+/static/99ec1fb8a48f9bd7ddcba154c929ab7d/4e117/marteau.png 380w,
+/static/99ec1fb8a48f9bd7ddcba154c929ab7d/9da08/marteau.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apparaissant dans une tendance baissière, le &lt;strong&gt;marteau indique un possible retournement haussier&lt;/strong&gt;. Un peu de psychologie pour comprendre:&lt;/p&gt;
+&lt;p&gt;Nous sommes en tendance baissière, les vendeurs tirent donc les prix vers le bas. Pendant la formation du &lt;strong&gt;marteau&lt;/strong&gt;, les prix ont continué à chuter mais, arrivés à un certain niveau, les acheteurs ont repris le dessus et sont parvenus à stopper l&apos;hémorragie et à faire remonter le cours avant la clôture de la bougie (d&apos;où la longue mèche basse). &lt;/p&gt;
+&lt;p&gt;Le contrôle a donc changé de main et les vendeurs semblent être arrivés au bout de leurs limites pour le moment. Le retournement haussier est donc possible.&lt;/p&gt;
+&lt;h5 id=&quot;le-pendu-hanging-man&quot;&gt;&lt;a href=&quot;#le-pendu-hanging-man&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Le pendu (Hanging Man)&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b211db2ee0e16bcca2b43ef10f58f0aa/9da08/pendu.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAB4UlEQVQ4y61US2sCMRDOHxUfiF689XEUe1BEFPH9OHiRggraH9F69KAHT7YFqRdLreB71XzNBHdZd7NaSgPDZGcyX76dfAnDHwbn3DHHnAp00zRN2na7xW63M8CcQNklBsfjEcPhEIPBAP1+H71eD4fD4e+A5AmATJ9bGVqB2dU+kRdMQcxMIFcBrYsMo2+zEfgFUHb1BL++wF9ewJ+fwadTGZp/fzv2Uslwv99jt15Do/jTk1jFwMnqdRC/8dsbVquVrc4RsNFo4P7uDrlyGXtRjGQSPBYD3t/x2Grh9uYGxWLxjKVeqwSsVqvweDx4iEQkS5D+FguZK+bz8Hq9iIkNrL9NnukT0tzx1PBarYZAIIBYNAqNYh8f4K+vMlculeD3+xGPxw1AMymmEmilUoHb7UaEGBLgfA7++Slzk8kE3W4Xo9EInU4HiUQCzWbTIGMwnIoTHI/HmM1maLfbCIfDKFMPxQFBl8xpc1pDI5PJwOVySbY2QEoGg0HkRY8oab4hMOmScnSnyRcKBdmadDptB0ylUrLZlFRqUyHibDYLn88nRJC0A9JuoVAIJdH0s5uiuj2nGPWaanK5nB1ws9lguVxKf+mJMsdUNczpGbr0iFpvx5lsVL/zW4aqGoZ/Hj82DuRTcFz/VAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;pendu&quot;
+        title=&quot;&quot;
+        src=&quot;/static/b211db2ee0e16bcca2b43ef10f58f0aa/9da08/pendu.png&quot;
+        srcset=&quot;/static/b211db2ee0e16bcca2b43ef10f58f0aa/20774/pendu.png 190w,
+/static/b211db2ee0e16bcca2b43ef10f58f0aa/4e117/pendu.png 380w,
+/static/b211db2ee0e16bcca2b43ef10f58f0aa/9da08/pendu.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Le &lt;strong&gt;pendu&lt;/strong&gt; a exactement les mêmes caractéristiques que le marteau. Corps court, pas ou peu d&apos;ombre haute et une longue ombre basse. La seule différence, c&apos;est qu&apos;il intervient dans une &lt;strong&gt;tendance haussière&lt;/strong&gt;. Comme le marteau, il est un indicateur d&apos;un possible retournement.&lt;/p&gt;
+&lt;p&gt;Nous sommes en tendance haussière, les acheteurs ont la main. Mais pendant la formation du pendu, les vendeurs sont parvenus à tirer le cours vers le bas de manière significative. &lt;/p&gt;
+&lt;p&gt;Certes les acheteurs ont réussi à sauver les meubles avant la clôture (d&apos;où la longue mèche basse) mais, pour cela, ils ont du batailler et ne sont pas parvenus à poursuivre véritablement l&apos;ascension. Peut-être sont-ils à bout de force, et le marché est-il prêt pour un &lt;strong&gt;retournement baissier&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4 id=&quot;marteau-inversé-et-étoile-filante-inverted-hammer--shooting-star&quot;&gt;&lt;a href=&quot;#marteau-invers%C3%A9-et-%C3%A9toile-filante-inverted-hammer--shooting-star&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Marteau inversé et étoile filante (Inverted Hammer / Shooting Star)&lt;/h4&gt;
+&lt;p&gt;Miroirs du marteau et du pendu, le &lt;strong&gt;marteau inversé&lt;/strong&gt; et l&apos;&lt;strong&gt;étoile filante&lt;/strong&gt; indiquent elles aussi un possible retournement de tendance. Elles se composent des caractéristiques suivantes: un petit corps, une absence d&apos;ombre basse et une longue ombre haute. &lt;/p&gt;
+&lt;p&gt;Attention cependant à ne pas entrer en position trop vite sur ce type de figure, il est largement préférable d&apos;attendre une seconde bougie de confirmation. Les marteaux inversés et les étoiles filantes sont le signe d&apos;une hésitation dans la psychologie dominante mais en aucun cas une assurance de son retournement.&lt;/p&gt;
+&lt;h5 id=&quot;marteau-inversé-inverted-hammer&quot;&gt;&lt;a href=&quot;#marteau-invers%C3%A9-inverted-hammer&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Marteau inversé (Inverted Hammer)&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8c291d61053fdd1b78854b842078dca5/9da08/marteau_inverse.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAB/klEQVQ4y61US2siQRCevymI4APFs5eFXbwlMz4QjWBEvGRhMexJ0ZPHLGv2IeITPQmZIOxhZhQys3Ge36Y7TDAzPephG4ruqq7++uvqquLgGY7j4NzB8uVYDrZtwzRN6LqO/X5PZ1d3bZZlMUGZgJIkYb1eYzabYTweYzqdYrVaYblcYrFYYDQaQZblYEBidMVl6AqxkZkw8vod6q6NC9o4N4Y+QBaA1zFIWOfeGHY6HVSrVXS7XeaTWHqv16Nn2u02Dcu7J+fzeYTDYRSLxXcA3vkwtuVyGZFIBLlczg9YqVSQTCbpjUHMvKNUKlESPM/7AclmLBajwORHFUXxpQWx9/t9tFotDAYDTCYTqg+HQ/8vE2bpdBq1Wg2apkEURZiWSZ1U6wmao8E2bWSzWYRCIep/9FN2ux1N6O12i3q9jkwmg5vPN9RR1B/waIgvFAEhJyCVSqHZbNI9UkFujgamjSAIiEajuKpevVaOIUGyJAp4cXmBRCKBRqPBjC93+HtkJrcVCgXEE3Fc166hOzp+PN3jp3YP1VDBX/KIx2PHAb3BJ3X87fsd1D8qWvIXcL84cL85fJVvoTxuMV/OsdlsjgN6QWXltfhnf6f4uPmATy+yeJ6f3768zYE83bIt3wFic5P7JEPWrbZjw3AMKmR9qgkzn3yqRZ0N+D/GP1704BWjYGShAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Marteau inversé&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8c291d61053fdd1b78854b842078dca5/9da08/marteau_inverse.png&quot;
+        srcset=&quot;/static/8c291d61053fdd1b78854b842078dca5/20774/marteau_inverse.png 190w,
+/static/8c291d61053fdd1b78854b842078dca5/4e117/marteau_inverse.png 380w,
+/static/8c291d61053fdd1b78854b842078dca5/9da08/marteau_inverse.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure de retournement haussier&lt;/strong&gt;, le marteau inversé prend toute son importance dans une tendance baissière. Les vendeurs poussent le prix vers le bas, mais, pendant la formation du marteau, les acheteurs semblent se réveiller et tente de reprendre le contrôle du marché, avant d&apos;être violemment repousser par leurs adversaires.&lt;/p&gt;
+&lt;p&gt;Malgré tout, pour les vendeurs, c&apos;est un signe qu&apos;ils ne sont plus seuls et que les forces adverses sont de retour. Certains choisissent alors de racheter leurs positions en attendant la suite. Le marché entre dans une phase d&apos;indécision et la bougie suivante déterminera la psychologie dominante. &lt;/p&gt;
+&lt;p&gt;En cas de bougie haussière, les vendeurs un peu trop agressifs restés en position verront leurs positions clôturés, et les acheteurs enhardis par ce changement, reprendront le contrôle. La psychologie dominante change de camp et le retournement haussier est complété.&lt;/p&gt;
+&lt;h5 id=&quot;létoile-filante-shooting-star&quot;&gt;&lt;a href=&quot;#l%C3%A9toile-filante-shooting-star&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;L&apos;étoile filante (Shooting Star)&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6c377591af04a8842b6ba2fa8111ecd4/9da08/shooting_star.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAACBElEQVQ4y5VUu2oCQRTdMj+RX/B7xEILUUEQrUSwlih2gihikSaCjWAKFYUUgZAgviIExC4Po6L4whfrOiczE3eDug8zMMxwZ/fcc869MwJUBiEERkPrG0Hrw/1+j+12i9VqheVyifV6razsTAtUE3CxWKDb7aLRaKBeq/F9tVpFq9XiwBcDXjL0LFFlKE+wlcWobLLb/e4PYP/2kINSrzjI2xvIbKYA6oHqS5ak3/X9/W9v0AHCqVS5whKVyCDIaATc3QEPDyC0GHueR9JkKRgaHouBCALI1RXw/GxYHOGI1SEza5X7XA6Pr6+Qbm+B62vAZML66QmtTgfVlxf0+31thqfBeDwOs9mMYDAIcbMB2KTJvj4+4PP5YLPZUCwWDzYfy1cYttttVCoVNJtNpNNpOJ1OhEIhiNRLefS+v+H3+/lZuVzmsR1rJzXAGPXKYrFwEAbodrtxEw5DFEWlsl+fn/B6vbBarSiVSqp+KoCpVIpnjkajmE6nGNHqTiaTo+qze12v1/kV7FAvs9ksEokE91yugwKYTCbhcDgQiURUq3caG4/H8Hg8XFU+n1f8VABZJrvdjjCVKfvCMp7eDOnQ4IPBAIFAgJMoFArngEyyy+XikuWf9JgOh0N9QOZXr9fj3undVfktZAxVJRsx0YrP53NkMhmujLXaWVG0PLv0PZRjPyC81YqBpIezAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;étoile filante&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6c377591af04a8842b6ba2fa8111ecd4/9da08/shooting_star.png&quot;
+        srcset=&quot;/static/6c377591af04a8842b6ba2fa8111ecd4/20774/shooting_star.png 190w,
+/static/6c377591af04a8842b6ba2fa8111ecd4/4e117/shooting_star.png 380w,
+/static/6c377591af04a8842b6ba2fa8111ecd4/9da08/shooting_star.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;À l&apos;inverse du marteau inversé, l&apos;étoile filante est une &lt;strong&gt;figure de retournement baissier&lt;/strong&gt; et prend donc tout son sens dans une tendance haussière. &lt;/p&gt;
+&lt;p&gt;Les acheteurs contrôlent le marché, mais se voient heurtés à un réveil des vendeurs.  Si ces derniers ne parviennent pas à retourner le marché pendant la formation de l&apos;étoile filante, ils ont néanmoins fait passer un message: les vendeurs sont de retour et ils comptent bien reprendre la main.&lt;/p&gt;
+&lt;p&gt;Ici, ce sont les acheteurs prudents (et à l&apos;inverse, les ultra-agressifs aux stops serrés) qui sortent du marché en attendant d&apos;avoir plus d&apos;information. La bougie suivante sera déterminante. En cas de bougie baissière, les vendeurs prennent confiance, les stops des acheteurs sont déclenchés et la baisse se confirme. La psychologie dominante passe vendeuse et le retournement baissier à lieu.&lt;/p&gt;
+&lt;h3 id=&quot;les-patterns-à-double-bougies&quot;&gt;&lt;a href=&quot;#les-patterns-%C3%A0-double-bougies&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Les patterns à double bougies&lt;/h3&gt;
+&lt;h4 id=&quot;avalement-haussier-et-avalement-baissier&quot;&gt;&lt;a href=&quot;#avalement-haussier-et-avalement-baissier&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Avalement haussier et avalement baissier&lt;/h4&gt;
+&lt;p&gt;Une première bougie intervenant dans le sens de la tendance, immédiatement suivi par une bougie contraire, englobant la totalité de la première. Voici ce qui constituent les structures d&apos;&lt;strong&gt;avalements&lt;/strong&gt;. &lt;/p&gt;
+&lt;h5 id=&quot;avalement-haussier&quot;&gt;&lt;a href=&quot;#avalement-haussier&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Avalement haussier&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/65a5d1480c62d4b1c975fb68f76226c4/9da08/avalement_haussier.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAACFUlEQVQ4y6VUTWsTQRieX6CX4kGpp949+Qv0Z+SSVFNXBJUcPHjpQULIF4RAyCF4yKkeQ35CoSAS0iTWQsBtG1ilmGbTNFvyMTOPMxN33Ux2Uz9meXl333nn2ef9mJfAtzjn+NulnyH6htSUUsxmM0wmE0+m06kS1y61/0wooASzLAvtdhvNZhOtVkvpbrerdKfTQaPRgGma3rkVQNfoCmNMAUvtfgfZQ0PWAf81fwowyKj/4E9liWGtVkOxWES9Xl8KJ4x1mM0DTKfTiEQiyGazofnRizAajdDv9zEcDlcZFgoFxONxxVJntsyYgQmRq1KpwHhuIJfLqWItAebzecRiMQUsNweDwY1hl0olRKNRJJPJVUDJzDAM5eQ4Dnq9nnLSmV6zazjUwVw8iqERwlDmQebDtm2Uy2UkEglUq9UFEBPOIsorOsLD4wfYOLyFt9Yb0DHF+Y9zcdb+ncOgUFKplApFslaAv+yX/Ap3Dm+DfCTYOYutr7Lb/ZJ6JpPBk+1tlARTET+4+RUwz0RVv+P+57sgnwhe9J4pkDmbr/ah3iLynh7s78Maj4G9PXAi3IRcfniPjZN7IAcET0+ji7vPafBw0EHti4uF7egI/NVL4HUC4y8NPDp9jK32Jt59210P6KftDQFZZV8OpZ5TMcL4TAGFTpswlnyBLmcauGwLxm4eDkEO3l+ldu2+d7031zL83/UTfALcbZ3oMnUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Avalement haussier&quot;
+        title=&quot;&quot;
+        src=&quot;/static/65a5d1480c62d4b1c975fb68f76226c4/9da08/avalement_haussier.png&quot;
+        srcset=&quot;/static/65a5d1480c62d4b1c975fb68f76226c4/20774/avalement_haussier.png 190w,
+/static/65a5d1480c62d4b1c975fb68f76226c4/4e117/avalement_haussier.png 380w,
+/static/65a5d1480c62d4b1c975fb68f76226c4/9da08/avalement_haussier.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Une bougie rouge, dans une tendance baissière, immédiatement suivie par une bougie verte qui &lt;strong&gt;englobe&lt;/strong&gt; la totalité du corps de la précédente. Une structure typique de l&apos;&lt;strong&gt;avalement haussier&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Sur la première bougie (rouge), les vendeurs ont tenté de maintenir leur avantage et le mouvement baissier. Mais, arrivé à un certain niveau de prix, ils se sont heurtés au retour des acheteurs. Et quel retour. Non seulement ceux-ci sont parvenus à stopper la baisse, mais également à annuler complètement la dernière bougie baissière. Le sentiment dominant a changé de camp, laissant la place à un retournement haussier.&lt;/p&gt;
+&lt;h5 id=&quot;lavalement-baissier&quot;&gt;&lt;a href=&quot;#lavalement-baissier&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;L&apos;avalement baissier&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6659fe0c485927a25725ce2ce764a89d/9da08/avalement_baissier.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAACIUlEQVQ4y6VUQYvaQBTOT9nD/ob9F6UUb6KCB6WXpY2Hgr0sdEVEvXTtCisU8bQgK9JrKIigEARRomUPRWyhK1gopgt11WTma2ZM0sQk25QOGWYyM++b773vzRNw0CilCNv8zgrOTeuAruvY7XbYbDa8b7dbe7TmmqZ57AIBl8slJpMJhsMhRqMRptMpFEXhfTweYzAYYLFYhAckhHCWbLTWWWf/Vg9yWwgbQwMSZjxgxAOGz/bZvzK058ZHKIFGNehUh050ExwWfDBDP5c1XfMwJa0b4OwMqNU4S9M4vMtftnO8/vYKp1+fQ9FvgScREMEwOzoCfXjYszVjHchwNptB+ihBkRV8+N6GMBQgyAJq6nsg+QKaAUhPTmDkj4shs3cBMjdZazabiEajEF+KuPtxh9nuM25/fYKKNfD0GShjeHwMsl6D6U0MOxdDi50F2G63kU6nkc1mcf/z3h2Si7egkQiMTdxcX+PN+Tnq9bptawMyIazsZ4CpVIoDqqq6zxayZ+FU+N3lJRKJBHK53B9Av7xjLsdiMYiiiNVq5RKLC2Aa166uuCfFYtHLUJIkTr3T6WA+n6Pb7UKWZf52XYAO8arVKpLJJPL5vBeQ3RKPx1Eulx+tKk7ARqOBTCaDSqXiBSwUClzZUqlkJ7buUM+PoVWR2OhRudfrodVqod/v+77RMG+e52FgMXhk/ZCtc82VNs6S9a/V2/WWD2/6H8DfTE3aF6JBRt4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;avalement baissier&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6659fe0c485927a25725ce2ce764a89d/9da08/avalement_baissier.png&quot;
+        srcset=&quot;/static/6659fe0c485927a25725ce2ce764a89d/20774/avalement_baissier.png 190w,
+/static/6659fe0c485927a25725ce2ce764a89d/4e117/avalement_baissier.png 380w,
+/static/6659fe0c485927a25725ce2ce764a89d/9da08/avalement_baissier.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vous l&apos;aurez compris, l&apos;&lt;strong&gt;avalement baissier&lt;/strong&gt; est l&apos;exacte inverse de son jumeau haussier. Une phase de hausse, une dernière bougie verte directement &lt;strong&gt;avalée&lt;/strong&gt; par une bougie rouge qui marque le retour en force des vendeurs. Ici, le retournement baissier est probable et il est conseillé aux acheteurs d&apos;attendre un peu avant de se risquer à prendre une position. &lt;/p&gt;
+&lt;h4 id=&quot;tweezer-top-et-tweezer-bottom&quot;&gt;&lt;a href=&quot;#tweezer-top-et-tweezer-bottom&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tweezer Top et Tweezer bottom&lt;/h4&gt;
+&lt;h5 id=&quot;tweezer-top&quot;&gt;&lt;a href=&quot;#tweezer-top&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tweezer Top&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e8414def9abc8efe053168dd5992f35b/9da08/tweezer_top.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAACRElEQVQ4y51UTYvaUBTNX+hiCl220N9RaLvuXvADKX5s60IXVkFFF+5EUTQFQUERxZUoYdy4mY0gM4JImVFowU7ptDi1qDExOc17GuskUdve8Hi8vJPz7rn35DEwCFmWcSoOYZhDIEEQsFwuMZvNMJ/PsVgsdmuyp+K1xDpCFTCZTDAYDDAcDtHv99Hr9TAej3F1eYmb0ejvCLVZKvC9DUmHMZJtLFmZpC3BVJwqi+3r++nuiEOkjDZ1MqtkI/4G7LcMuF8c1tcfAfYD5PNzJVlJwch01hIbZihtU3J/egvmgsGj6zP8sLxR0Aykx2dQunSwTA8yJGO9XoMXeCo7+iWEp1dP8OLzS9y/fwc8ew759Sv8vL3F17s7fFeGLkPti2q1Cr/fj0wmQ4kF8kgCZFGEzPMUUywW4Xa7EYlEsFqt9JJp3aSNTJZlYbfbEQ6HIQrirknyZqJRKBTgcDgQCoWoN8m3RBnhoYT1eh3RaBSlUgnpdBoWiwXBYHBnYNIkedsEErlcDiaTCV6v19g2qVQKVqsVsVgMHMdRubVajZ6qrTGJbreLSqWCdrtNTd9qtdDpdCAqZaGE2WyWSojH4yf/We06n8/TbD0eD5W/I3Q6nZSQnEJlajy2nyHZU3Hlchkul4uWiFeaRgmTySTMZjPtmgrUml1n/m09Sd2JukAg8Iew2WwikUhQy6jAY1fYPiGxkM1mg8/n20g2+vDUfbhP2Gg0qFySEPGk7k85dpMYXXNqPR/48F8Jjylh8B9xqGFk/AY1fsrWU0rMiwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;avalement haussier&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e8414def9abc8efe053168dd5992f35b/9da08/tweezer_top.png&quot;
+        srcset=&quot;/static/e8414def9abc8efe053168dd5992f35b/20774/tweezer_top.png 190w,
+/static/e8414def9abc8efe053168dd5992f35b/4e117/tweezer_top.png 380w,
+/static/e8414def9abc8efe053168dd5992f35b/9da08/tweezer_top.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pour identifier un Tweezer Top, quelques critères sont indispensables:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Une tendance haussière&lt;/li&gt;
+&lt;li&gt;Deux  bougies adjacentes de couleur différente (l&apos;ordre des couleurs n&apos;est pas important)&lt;/li&gt;
+&lt;li&gt;Deux plus haut atteignant le même point&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Sur l&apos;exemple ci-dessus, j&apos;ai choisi d&apos;illustrer le Tweezer Top avec deux bougies identiques mais ce n&apos;est en rien une obligation. Le plus important étant que le point le plus haut des deux bougies se trouve au même niveau.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Dans le cas d&apos;un Tweezer Top, la psychologie est assez simple. Les acheteurs ont la main et poussent le marché vers le haut jusqu&apos;à former un nouveau point haut (le plus haut de la bougie verte ici). &lt;/p&gt;
+&lt;p&gt;Pendant la bougie suivante (la rouge ici), ils tentent de dépasser ce point pour poursuivre la hausse, mais échouent. La force n&apos;y est plus et une résistance se crée. Voyant les forces de leurs concurrents s&apos;amoindrir, les vendeurs se jettent sur l&apos;occasion et reprennent la main. Le sentiment dominant s&apos;inverse, et le marché se retourne à la baisse.&lt;/p&gt;
+&lt;h5 id=&quot;tweezer-bottoms&quot;&gt;&lt;a href=&quot;#tweezer-bottoms&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tweezer Bottoms&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/40ba1d69f60129069557a05b109758a9/9da08/tweezer_bottom.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAACPElEQVQ4y42Uu4saURTGZ/+sTbFLIKRJEUiKLVYEn1hrIYKI2Khg77MQfDUqWPgHSNx0vkDCLIuFKzG4hajxOc7Ml7lXruteZydeOHCZOfPN73zn3CuAW6qq4tKllyvoJez3e6zXayyXSxpkv9lssFgssFqtaOx2O11RgT1UFIUGWZPJBL1eD4PBAO12G91uF6IootPpoNVq0Xfj8VhfUA/70rJJHh+UcDabUarpdHoU00vWC10P0+k0XC4XYrEYZFm+WJD5vd1uqadHwng8DpvNhkgk8kbQqFTmd7Vahcfjod8SYSqYTCbhcDgQjUbpH08JeVpeMJfLwWKxwOfz0UmggolEAna7nQryJfO0PHmxWKQwfr//lZCUbLVaEQ6Hj4K8AO8bm8NSqQSn04lAIPAqOBqN0O/3MRwOUa/XaXPy+fxZ+UywUqnA6/VSkFQqhfv7e7jd7kPJfAnET7PZjGAwCIlQECEy9KoCWTnQZ7NZ6lsoFEKz2UShUECtVoMkSQdCYjArlYwQS5ZY2VyXM5kMTCYTbQRrztnRY6TlcpkaHNcatdeswNMT1Odn/N6N8LgR8Uceo9FoIJVM0VxCxbp+nMNTQUJKvCO86vdv2i+1lOsP+PLrI4SWgFvx2vAICkZnWL27A66ugJtbfBU/Q2gL+PR4o3m5f0N1+q1gNMSqdm2pPx+gXS1YqEs8/P2BF+nl3WE/uw9PUA9BtvM57TJZc3n23xtJ0BVjW9ZBSqIYnqD3BXlCHTuMCP8BWIfJgB0Pw74AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Tweezer Bottoms&quot;
+        title=&quot;&quot;
+        src=&quot;/static/40ba1d69f60129069557a05b109758a9/9da08/tweezer_bottom.png&quot;
+        srcset=&quot;/static/40ba1d69f60129069557a05b109758a9/20774/tweezer_bottom.png 190w,
+/static/40ba1d69f60129069557a05b109758a9/4e117/tweezer_bottom.png 380w,
+/static/40ba1d69f60129069557a05b109758a9/9da08/tweezer_bottom.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Corolaire du Tweezer Top, le Tweezer Bottom indique un changement de sentiment en faveur des acheteurs et un possible retournement haussier. Les critères (et la psychologie sous-jacente) sont les mêmes que son jumeau, à la différence que l&apos;on cherchera deux points bas atteignant le même niveau (et donc la formation d&apos;un support).&lt;/p&gt;
+&lt;h3 id=&quot;les-patterns-à-trois-bougies&quot;&gt;&lt;a href=&quot;#les-patterns-%C3%A0-trois-bougies&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Les patterns à trois bougies&lt;/h3&gt;
+&lt;p&gt;Rajoutons une bougie à la recherche de nos patterns et passons à la dernière catégorie de cet article: les patterns à trois bougies. &lt;/p&gt;
+&lt;h4 id=&quot;étoile-du-matin-et-étoile-du-soir-morningevening-star&quot;&gt;&lt;a href=&quot;#%C3%A9toile-du-matin-et-%C3%A9toile-du-soir-morningevening-star&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Étoile du matin et étoile du soir (Morning/Evening Star)&lt;/h4&gt;
+&lt;p&gt;Une tendance, deux bougies directionnelles qui entourent une bougie d&apos;indécision: voici l&apos;un des patterns les plus connus du secteur: les étoiles du matin et les étoiles du soir.&lt;/p&gt;
+&lt;h5 id=&quot;létoile-du-matin-morning-star&quot;&gt;&lt;a href=&quot;#l%C3%A9toile-du-matin-morning-star&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;L&apos;étoile du matin (morning star)&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/38d7609a412fddade871baf170ec69a1/9da08/morning_star.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAACKElEQVQ4y61UQWsaQRQe6G8IFEqhpSSkl/4eISVEa+OhuXgURBHyC4qFhhYbiOgh7b1SesqhVL0YQ2r0kMRoDyUX46bq7ux8nTeTXXfd3SaHPHi8x9vHN998780yLJgQAnexqD4W1kTRsixMp1PXTdNUPpvNVHT6FoFDATnnGA6HaLVaaDQaaLfb6HQ6ypvNJnq9XjSgl5Vt2647zU4e9c1bcxneVbfbNKSay5BO6Xa76pr9fp8KEFJH4WHkdbLBYKD6SQqSyXdlErpQKCCRSKBUKukTbxwE4mFBh5OVy2XE43FkMhlMJhM/IE0vn89jQzZ83NkB6nWIWg3i+HgOKp0LDm5rNpVKBclkEtlsVm1CgOG7YhFZCfplbw9YWYFgDEIyVng3IGSX5qUGrFaQSqWQy+WCgOp0qZlF8eoKWF7WgJKB0CKrnu+jb/jw5z364hy7n3YRi8WQTqfnVw6d2PU1hASEBIQLCBh8jKftR2B1htcXGzhpnWD/8z5qUhp6CAGGaqKUGwawuqoZbm7OAc0Rnh09BmswvDpbD1+bhYqO4zGwtKQZrq1pwNEYhsyeHD5UDONnL7X23FQr41vsAKCcOLa3ga0toFqV0/4KvC3COKzjxa/neNBkeHOe0vsrbN9ushDewdLpKcTBAfB3it+zIX4aP+TwrMCiRzOkSCKTOxrLQTmMDG5EPr9oQI97X8k8t0P/OOyWP4Abfdvgyf/P8B7s3gH/ASh51xMd5lnbAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;étoile du matin&quot;
+        title=&quot;&quot;
+        src=&quot;/static/38d7609a412fddade871baf170ec69a1/9da08/morning_star.png&quot;
+        srcset=&quot;/static/38d7609a412fddade871baf170ec69a1/20774/morning_star.png 190w,
+/static/38d7609a412fddade871baf170ec69a1/4e117/morning_star.png 380w,
+/static/38d7609a412fddade871baf170ec69a1/9da08/morning_star.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comme tout les patterns de retournement haussier, l&apos;étoile du matin prend place dans une tendance baissière. Alors que la baisse se poursuit (première bougie rouge), et que le sentiment vendeur semble écrasant, une bougie d&apos;indécision fait son apparition (doji rouge ici). Les vendeurs commenceraient-ils à s&apos;essouffler ? &lt;/p&gt;
+&lt;p&gt;À ce moment, le marché hésite sur la tendance à suivre. Personne ne veut prendre des risques trop importants, et chacun se regarde dans le blanc des yeux. &lt;/p&gt;
+&lt;p&gt;Durant cette phase, plus l&apos;indécision est palpable, plus les probabilités d&apos;un retournement est grand (et pour ça, rien ne vaut un doji). &lt;/p&gt;
+&lt;p&gt;Finalement, après avoir hésité un moment, les acheteurs se lancent à l&apos;assaut et prennent la main, imprimant une belle bougie verte (plus son corps est important, mieux c&apos;est). Le sentiment de marché a changé, les vendeurs capitulent pour le moment et le retournement haussier à lieu.&lt;/p&gt;
+&lt;h5 id=&quot;létoile-du-soir-evening-star&quot;&gt;&lt;a href=&quot;#l%C3%A9toile-du-soir-evening-star&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;L&apos;étoile du soir (Evening Star)&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ac1e9c93b41cfa5e17fe55c13b626150/9da08/evening_star.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAACMElEQVQ4y62Uz2sTQRTHByGovXgTFE+eehAP+UP6JyyEgpdiBFEoeLEYEgRbzeIfIF4reA5JICg1mGx+NGRhoYclB43RVDBJw+5mZr7Ozuyma35W6ISXN+y+95n33ry3BAsW5xzr1jIbsszQ167rwnEcKf5+MplITSldCl0K9J1N00StVkOr1UK73YZlWWg2mzjt9/8f6OtZYYxJidqsBM7Bgh/lFAIlnjE/dCk8SBszUHLRYv/yelJLzGCgbEPouggnfIIxG8NlLgb0Dz7+/gD9VIf93QBevQF79BAwDOU0AyXRND3myf37/jvcad3EfXMTtbMqus43fKJf4dYrQCwGTkQce3uK4HnzEYZQphKC/vM1SIXgap2gPDpSfv6faYHfviW8hNv+/mJgtE2G46HYAG9/ZEEMghuN6wrI/cOEEi2DjQ0J5KmUfEZFj0azJGGTlkol7CR3cPD8AM+au7hyLID1awL45fwybBvY2gKPx4HDw4WXOQXm83loCQ0vnqTw1HgM0iCI1QiOhp8VkAfTMRoBJycYiVSNahXlchndbnc+wmKxiO0H20jtpvDyOINN6y7i5j00zuqqvgGQ+TUT42d3Okgmk0gkEigUCsGF03NgLpeDpmnSyO7YsqEd6ggQU6f7hQymRWVvLwaGBpVKBel0Grquo9frBYWJ1CfYh/Z+mtlsFplMRrSkMX1HVs1uKLNjuch+WsNl47bqm7jKnqw78aJfo38ivMx16cC/gfbVwVhpLQAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;étoile du soir&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ac1e9c93b41cfa5e17fe55c13b626150/9da08/evening_star.png&quot;
+        srcset=&quot;/static/ac1e9c93b41cfa5e17fe55c13b626150/20774/evening_star.png 190w,
+/static/ac1e9c93b41cfa5e17fe55c13b626150/4e117/evening_star.png 380w,
+/static/ac1e9c93b41cfa5e17fe55c13b626150/9da08/evening_star.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;trois-soldats-blancs-et-trois-corbeaux-noirs&quot;&gt;&lt;a href=&quot;#trois-soldats-blancs-et-trois-corbeaux-noirs&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Trois soldats blancs et trois corbeaux noirs&lt;/h4&gt;
+&lt;p&gt;Trois bougies successives de même couleur, disposant d&apos;un gros important et de peu (ou d&apos;aucune) ombre, voilà les structures des trois soldats blancs et des trois corbeaux noirs.&lt;/p&gt;
+&lt;p&gt;Suivant la configuration du marché, ces structures peuvent à la fois être des patterns de retournement comme de continuation d&apos;une tendance:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;En tendance haussière: Les trois soldats blancs sont un pattern de continuation. Les trois corbeaux noirs un pattern de retournement baissier.&lt;/li&gt;
+&lt;li&gt;En tendance baissière: Les trois soldats blancs sont un pattern de retournement haussier. Les trois corbeaux noirs un pattern de continuation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pour être validés, ils doivent également respecter quelques règles:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La seconde bougie est forcément plus grande que la première.&lt;/li&gt;
+&lt;li&gt;Les ombres sont courtes ou inexistantes.&lt;/li&gt;
+&lt;li&gt;Les volumes sont en augmentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;*Mais au fait, pourquoi soldats &lt;strong&gt;blancs&lt;/strong&gt; et corbeaux &lt;strong&gt;noirs&lt;/strong&gt; ? Si aujourd&apos;hui, la plupart des plateformes de trading affichent par défaut les bougies haussières en vert et les bougies baissières en rouge, il fut un temps où ces couleurs étaient différentes. On utilisait alors le blanc pour les bougies haussières et le noir pour les baissières. Vous trouverez encore ces configurations de temps en temps.*&lt;/p&gt;
+&lt;h5 id=&quot;les-trois-soldats-blancs&quot;&gt;&lt;a href=&quot;#les-trois-soldats-blancs&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Les trois soldats blancs&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/52a22576fcebcf40d8888ffe979562af/9da08/white_soldiers.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAACUUlEQVQ4y5WUz28SQRTH5+DBkz8OGv8APfmXeNGLNw4k/IgkHnpoojGGVKqRxZAmxii/jhDTaE1IGjgaPRAC1RAQahQwILQUkyJVy7I/v3ZmO3SBReElk523s/PZ933z3hBMmK7rWMQmvydWi5qmQZIkyLLMnoqiYDgcQhRF9o7O+Xu+j++1BHa7XRQKBdRqNZRKJdTrdeRyOTaq1Sry+TxbbzQaoz1jQOrQqMwRcp/PZ40p4KI5s8qhebAI+/0+k9nr9cb+OM+YNAaMxWLweDwIBoNQVXWu0+brsi7hj/obh9ohNF0zgKFQCE6nE4IgzA2UdZk9n3bXcLZwGlcrV/BV/GIAI5EI3G43AoGAZSlYwTnw4e4KSI4waGVQNoDhcBgul4sBzRFa5ZP7kjZk88edVZAtggvFM9gWKyeSHQ4H/H7/CDirEyZ9ofOIAS8Vz+OzuG0AW60WyuUyms0mUqkUO5xEIjEln8MO1AN8G9ah6Arute+AZAlOfST4NChN12E0GoXdbofP52NtxoGqrmKgDZi/SvP2gRwdxGWEfzyHp+nCcmsJHXnXiJBWPJdK5dtsNni9XtazdE1RlbGfruzcZzIvFs9hR2pP16FZTiaTQTweRzqdHvvw3a+3WNt7glR/E0vfb49k0lLhpz7qlFkJz2azWH+1jvz7Ldys3QDJGOXx5udr3G0vH5XMA+wr+8d7tROgOUKz/GQyCb/gx8bLDbzYe4brtWu41XD8804k/6s5K6MtRiXSU7a8vqxuD6sLgoK0Y2lWxb4wcBbEbH8BnhzFJ/gEmgcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;trois soldats blancs&quot;
+        title=&quot;&quot;
+        src=&quot;/static/52a22576fcebcf40d8888ffe979562af/9da08/white_soldiers.png&quot;
+        srcset=&quot;/static/52a22576fcebcf40d8888ffe979562af/20774/white_soldiers.png 190w,
+/static/52a22576fcebcf40d8888ffe979562af/4e117/white_soldiers.png 380w,
+/static/52a22576fcebcf40d8888ffe979562af/9da08/white_soldiers.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;dans-une-tendance-baissière&quot;&gt;&lt;a href=&quot;#dans-une-tendance-baissi%C3%A8re&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Dans une tendance baissière&lt;/h6&gt;
+&lt;p&gt;Les trois soldats blancs apparaissent dans une tendance baissière et se matérialise par une succession de trois bougies vertes disposant de corps importants. &lt;/p&gt;
+&lt;p&gt;Dans un contexte de marché en survente, et alors qu&apos;un nouveau point bas a été atteint, certains acheteurs vont tenter de rentrer sur le marché pour acquérir l&apos;actif à un prix intéressant. La phase de baisse étant mature, le marché ne trouve plus de vendeur pour tenter de freiner cette prise de contrôle et les prix se retournent sur la première bougie. &lt;/p&gt;
+&lt;p&gt;Pris au piège de ce retournement, les vendeurs se voient obligés de racheter leurs positions, ce qui a pour effet d&apos;accentuer la hausse et de donner le contrôle total du marché aux acheteurs. La phase baissière se termine, et le marché confirme le retournement de tendance. &lt;/p&gt;
+&lt;h6 id=&quot;dans-une-tendance-haussière&quot;&gt;&lt;a href=&quot;#dans-une-tendance-haussi%C3%A8re&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Dans une tendance haussière&lt;/h6&gt;
+&lt;p&gt;Apparaissant dans une tendance haussière, les trois soldats blancs indiquent une continuation de la tendance. Les acheteurs ont toujours la main et confirment leur emprise sur le marché, ne laissant aucune place aux vendeurs. La hausse pourrait donc se poursuivre quelques temps. &lt;/p&gt;
+&lt;p&gt;Mais attention, cette poussée des acheteurs pourrait bien n&apos;être en fait qu&apos;un dernier baroud d&apos;honneur avant la fin. Les bulls lâchent leurs dernières forces dans la bataille, laissant penser à une prise de contrôle indéniable, avant de s&apos;épuiser et de laisser la place.&lt;/p&gt;
+&lt;p&gt;Pour cette raison, il est préférable d&apos;utiliser les trois soldats blancs (et leurs jumeaux les corbeaux noirs) comme indicateur de retournement de tendance plutôt que de continuation (donc rechercher les trois soldats dans une tendance baissière et les trois corbeaux dans une tendance haussière).&lt;/p&gt;
+&lt;h5 id=&quot;les-trois-corbeaux-noirs&quot;&gt;&lt;a href=&quot;#les-trois-corbeaux-noirs&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Les trois corbeaux noirs&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c231f38f3d596bc8fb5b9e4b588051e7/9da08/black_crows.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAACKklEQVQ4y62UTUtqURSGT6Momlejhv2XfoTpQGkQNnUiKaiV4Cg/UBHBUULoD0nxAyEitaiovJeEhMSvc9679jpnd885ndvtfixYbI5772e/6117q8AWmqbhT8O8R3GaUFUV0+kUs9mMx/l8zuNkMuHfzN9yjxwdgYPBAI1GA91uF+12G/1+H61WC/V6HbVaDb1eD51OB81mk+G/BQqFMheLBadKqVHOSaGcE+sdFdonzN//xUMZo9EIz09P+D4cQn15Aa6vod3cQCP/+FBD5acKhSfCbBGVSgX7e3sInZ7i7fCQVivQNjaAqyu7RKtCAROeiCiXywgEAkilUhiSsueHB3wTnp2cAEtL0La2QJ0CtRl4fRWGW6CKvcxcLge3241wOPx+CMd4DO3xUQdEIsDqKrC9DdzewugkQ1mhuFNj2iC6WSgU4PV6EY1G+c7JrstjeTTKx/o66A7B8OonsFgswu/3I5lMIp/Pw+fzWYBchUhRpgiyhIFra8DdnaVCBqbTaXg8HsTjcWQyGS45FAp9BEoLLi4AahSqVeDsDNjdBQ4OALKEgdlsllUlEgluSjAYZLD9Fbx7ZQ7ymtUuL4Oejw4UpbpcLvI6wn4KLwXMcsdkSih5znF0pAM3N4HLSx1YJemxWAylUsna2c/+fQw7cHz8EWh+bvb8JVQCyWsGrqzoJTst/tI7NvzF+Tmws6M35v7eWeGXoQ5rFPxtSJi8TuaX8s9AU/4AG0PGnOCWZMQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;trois corbeaux noirs&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c231f38f3d596bc8fb5b9e4b588051e7/9da08/black_crows.png&quot;
+        srcset=&quot;/static/c231f38f3d596bc8fb5b9e4b588051e7/20774/black_crows.png 190w,
+/static/c231f38f3d596bc8fb5b9e4b588051e7/4e117/black_crows.png 380w,
+/static/c231f38f3d596bc8fb5b9e4b588051e7/9da08/black_crows.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jumeaux maléfiques des soldats blancs, les trois corbeaux noirs se matérialisent par une succession de trois bougies rouges. &lt;/p&gt;
+&lt;p&gt;Dans un contexte de marché en sur-achat, et alors qu&apos;un nouveau point haut à été atteint, certains vendeurs vont tenter de rentrer sur le marché. La phase de hausse étant mature, le marché ne trouve plus d&apos;acheteurs pour tenter de freiner cette prise de contrôle et les prix se retournent sur la première bougie. &lt;/p&gt;
+&lt;p&gt;Pris au piège de ce retournement, les acheteurs clôturent leurs positions (ou voient leurs stops se déclencher), ce qui a pour effet d&apos;accentuer la baisse et de donner le contrôle total du marché aux acheteurs. &lt;/p&gt;
+&lt;p&gt;La phase haussière se termine, et le marché confirme le retournement de tendance. &lt;/p&gt;
+&lt;p&gt;A la manière des trois soldats blancs, les trois corbeaux noirs peuvent également apparaitre dans une tendance baissière déjà établie, et sont alors le signe d&apos;une continuation de tendance à venir. Mais ici aussi,  l&apos;on préfèrera utiliser ce pattern comme potentiel indicateur de retournement (donc dans une tendance haussière), à cause des risques d&apos;essoufflement de la continuation. &lt;/p&gt;
+&lt;h4 id=&quot;les-trois-inside-up-et-les-trois-inside-down&quot;&gt;&lt;a href=&quot;#les-trois-inside-up-et-les-trois-inside-down&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Les trois Inside Up et les trois Inside Down&lt;/h4&gt;
+&lt;p&gt;Figures de retournement, les Trois Inside prennent place dans une tendance déjà bien établie. Ils se composent de la façon suivante:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Une première bougie dans le sens de la tendance&lt;/li&gt;
+&lt;li&gt;Une seconde bougie, dans le sens inverse à la tendance, plus petite et contenue dans le corps de la précédente . &lt;/li&gt;
+&lt;li&gt;Enfin, une dernière bougie, plus grande que la seconde et toujours dans le sens inverse de la tendance, qui vient clôturer plus haut que la première.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&quot;trois-inside-up&quot;&gt;&lt;a href=&quot;#trois-inside-up&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Trois Inside Up&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/51e060f910f89d12c88a203a6458af65/9da08/three_inside_up.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAACaUlEQVQ4y5VUz4sSYRiefyGICKJDp6DLXqKOXjrkYTvUocgN81frJSLtkGCyQaCGp0D8BXtRpptskR2Wgg02soskaIuIbWIXF3SNZdFxvvme5vvGcWfdGd0+eJnhnXee93neH58Ak0MpxaJjFSNYBSqKgvF4zE2SJG6j0QiyLPNvVqCWgP1+H41GA81mE/V6HZVKBbVaDdVqFb1ebz4g+8CysqceNOvT3xcyNHP+Tw31hLpxhoPBAN1ul8u0Cpy1uZJzuRz8fj8SiQQIIQtZGkFZCVizWNOmDFOpFDweD2Kx2KkB9ToWi0UEg0H+LwPmgJlMBj6fD/F4nGecZWEmlSha4nw+D5fLhVAohOFwqAGm02l4vV4OaGRoVqvp++QhiiInEw6HjxgyyW63G9FodAp4DICBG8AkRcIhOQTzim9FrD5aRSQSOQLsdDp8aNvtNkqlEm9OoVCArBaag6pJeN2oVrdg5wnO/zgD++8bSK2nsHJ/BYFAQJM8W/xsNgun04mXa2sYa23k7AjUVVS4Bw9270H4LuDyziVslbcgFkRsvNvgayroe6tLZfIdDgdeqBLG5TKQTIJ+/nQs6d1ftyGUBVyonoW65earpzP9ur3NO/dxcxNkeVmNUEOuXce3/S9I7L3Gh/33SO69wZ3WLTztPMaQDFVG4F2fzqHVylH7TSgMcOkq7D9tXObF6jkQamgcxcnVMzJk8hXCKqb64zFQmw149hyv/kSwtHMFD3cdvMt8Fik5MVrCvCHmnlYLVNaa8ZcMIFPZcthN70NM5m5qBwdqpwnoKW8jc0DjJTBZCn0OTbfGcP4BIuLEJ8EArSYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Trois Inside Up&quot;
+        title=&quot;&quot;
+        src=&quot;/static/51e060f910f89d12c88a203a6458af65/9da08/three_inside_up.png&quot;
+        srcset=&quot;/static/51e060f910f89d12c88a203a6458af65/20774/three_inside_up.png 190w,
+/static/51e060f910f89d12c88a203a6458af65/4e117/three_inside_up.png 380w,
+/static/51e060f910f89d12c88a203a6458af65/9da08/three_inside_up.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Première bougie (rouge): Les vendeurs ont le contrôle du marché et poussent les prix vers le bas, sans trouver en apparence d&apos;adversaires pour les stopper. &lt;/p&gt;
+&lt;p&gt;Seconde bougie (verte): Soudainement, les acheteurs se réveillent et parviennent à contenir la baisse. Mieux, ils récupèrent une partie du terrain perdu. Pour les vendeurs, c&apos;est le signal qu&apos;il est temps de prendre leurs profits et de se faire la malle. &lt;/p&gt;
+&lt;p&gt;Troisième bougie (verte): Avec le retour des acheteurs et le départ des vendeurs prudents, le déséquilibre change de camp. Les acheteurs prennent la main, poussant les prix vers le haut en déclenchant les stops de vendeurs un peu trop joueurs, pris au piège par le retournement. Le marché se renverse, et est prêt pour une phase haussière.&lt;/p&gt;
+&lt;h5 id=&quot;trois-inside-down&quot;&gt;&lt;a href=&quot;#trois-inside-down&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Trois Inside Down&lt;/h5&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3d70576568354cecce1a1bbbb27c068e/9da08/three_inside_down.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 560px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAACYklEQVQ4y5WUz2saQRTH9w/IOS2l5NJL7/kPeinUUy8pgj/woNBDGvBQIUHBGj14E61WDHiQ6EFZchDBQwvNofZQFEwbbEptc2iDhByUiu66O9/OzGbj1Ow2cdhl2N23n/d9b957EiwWIQS3WVZ2kp2RrutQFAWqqvJ9Op3y3bzZdyuoLXAwGKDT6aD/o4+jz0dotVro9Xrodrtot9sYjUbLAZkCVVf5s0Y0aLMZiKZBpzv7ZtrdCDSs2GUYqkQVX4ueDZgJvNwl04vo0TAE2uNPSJ4lIA9l6Cdfgf19kHdvQZhC0YmgUrIK11Tn6j+D9FHCg/5DjL0b1FoCubMKDIe4zMv/FfJ80TwpqkKNgY3vTyF9kHD/ZA1/Ii+Bu/dAHE+A3V1gfR1wOOZwE7iY3Gq1iu2dbey92cPrszQef3uEF6fPoejUya/fhvbNTa4Wq1TtxcVcrajQrKtCoQCfz4foqyhXear+5KctHgrx+0EYcGUF+vk5NPqOVwHlcKAsy4jH4yiXy8hms3C73YhEIryox2RsANk50XRw6MEBsLUFEqVONe162WQyGXg8HiQSCTSbTeRyOdRqNcy0GSyrQFD75fgYjUYD7w8PMaMqOTCfz8NPw0gmk5b9uphnXuC0/dgqFotwOp0IBoOYTCZzYCAQ4EDmxeyUf0BCEYs5r1Qq/F+WItbvHJhOp+FyuRCLxa6AVspE1SaQ5Z1FFw6H50CWg1QqxUvGborYAUulErxeL0KhkBGy1Y83zUMRWK/XebhMEBtr1zrFLky7g2JglibWYVd1uCxwqYl929G/OJ3M+y+JTMUT19+DYAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Trois Inside Down&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3d70576568354cecce1a1bbbb27c068e/9da08/three_inside_down.png&quot;
+        srcset=&quot;/static/3d70576568354cecce1a1bbbb27c068e/20774/three_inside_down.png 190w,
+/static/3d70576568354cecce1a1bbbb27c068e/4e117/three_inside_down.png 380w,
+/static/3d70576568354cecce1a1bbbb27c068e/9da08/three_inside_down.png 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Première bougie (verte): Les acheteurs ont le contrôle du marché et poussent les prix vers le haut, sans trouver en apparence d&apos;adversaires pour les stopper. &lt;/p&gt;
+&lt;p&gt;Seconde bougie (rouge): Soudainement, les vendeurs se réveillent et parviennent à contenir la baisse. Mieux, ils récupèrent une partie du terrain perdu. Pour les acheteurs, c&apos;est le signal qu&apos;il est temps de prendre leurs profits et de se faire la malle. &lt;/p&gt;
+&lt;p&gt;Troisième bougie (rouge): Avec le retour des vendeurs et le départ des acheteurs prudents, le déséquilibre change de camp. Les vendeurs prennent la main, poussant les prix vers le haut en déclenchant les stops d&apos;acheteurs un peu trop joueurs, pris au piège par le retournement. Le marché se renverse, et est prêt pour une phase baissière.&lt;/p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;&lt;a href=&quot;#conclusion&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Nous avons vu ici les patterns les plus classiques des bougies japonaises, mais il en existe bien d&apos;autres sur le marché. Ceux évoqués ici sont simplement les plus courants et savoir les reconnaître vous donnera déjà une bonne base pour commencer à interpréter le marché.&lt;/p&gt;
+&lt;p&gt;Si retenir l&apos;ensemble de ces patterns peut être intimidant à première vue, rassurez-vous, avec le temps, vous apprendrez à les repérer d&apos;un coup œil. En attendant, mon conseil est le suivant: ouvrez un graphique au hasard, et remontez le temps en analysant les bougies. Vous découvrirez vite certains des patterns évoqués ici même, et vous habituerez votre cerveau à les débusquer.&lt;/p&gt;
+&lt;p&gt;Pour conclure, je vous conseillerais également de tenter de regarder vos graphiques d&apos;un œil différent. Au lieu de vous concentrer sur le prix, cherchez à deviner la psychologie du marché. Comment les bougies s&apos;enchaînent-elles ? Les corps sont-ils importants ou au contraire réduits ? Quand aux ombres, à quoi ressemblent-elles ? Et plus important encore, que pouvez vous en déduire sur le rapport de force entre acheteurs et vendeurs, et donc sur le sentiment dominant ? &lt;/p&gt;
+&lt;p&gt;Ces informations sont précieuses, souvenez vous que ce rapport de force représente l&apos;essence même du marché. Être capable de le comprendre, c&apos;est se donner un léger avantage, de celui qui fait la différence entre une bonne et une mauvaise décision.    &lt;/p&gt;</content:encoded><author>hello@cryptisla.com</author></item><item><title><![CDATA[Comprendre les bougies japonaises: la lecture des bougies.]]></title><link>https://cryptisla.com//comprendre-bougies-japonaise-partie-lecture-bougies</link><guid isPermaLink="false">https://cryptisla.com//comprendre-bougies-japonaise-partie-lecture-bougies</guid><category><![CDATA[Débutants 👨‍🎓]]></category><pubDate>Sun, 31 Mar 2019 22:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;quest-ce-quune-bougie-japonaise-&quot;&gt;&lt;a href=&quot;#quest-ce-quune-bougie-japonaise-&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Qu&apos;est-ce qu&apos;une bougie japonaise ?&lt;/h2&gt;
 &lt;p&gt; Les &lt;strong&gt;bougies japonaises&lt;/strong&gt; (ou chandeliers japonais) sont apparues au Japon (avouez que vous ne vous en doutiez pas) entre le 17ème et le 18ème siècle. Si leurs origines exactes restent inconnues, on doit leur théorisation à un trader japonais, &lt;a href=&quot;https://fr.wikipedia.org/wiki/Munehisa_Honma&quot;&gt;Muneshisa Homma&lt;/a&gt;, qui les utilisaient pour spéculer sur le cours du riz.&lt;/p&gt;
 &lt;p&gt;Leur objectif est simple: présenter de manière graphique les différentes actions du prix sur une période de temps donné.&lt;/p&gt;
 &lt;h3 id=&quot;ouverture-et-clôture-et-unités-de-temps&quot;&gt;&lt;a href=&quot;#ouverture-et-cl%C3%B4ture-et-unit%C3%A9s-de-temps&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Ouverture et clôture et unités de temps&lt;/h3&gt;
