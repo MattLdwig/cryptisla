@@ -15,7 +15,7 @@ export default class HTML extends React.Component {
           {this.props.headComponents}
           <script id="mcjs"  dangerouslySetInnerHTML={{
             __html: `
-                !function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/b2c2786749f2250b6db9f1d37/c01b9b6078e74872e5e2ec638.js");
+            !function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/b2c2786749f2250b6db9f1d37/681a9e62fadf69831335c467c.js");
             `
          }} />
         </head>
