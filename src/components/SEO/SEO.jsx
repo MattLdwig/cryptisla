@@ -77,7 +77,7 @@ class SEO extends Component {
         <script type="application/ld+json">
           {JSON.stringify(schemaOrgJSONLD)}
         </script>
-
+        <script dangerouslySetInnerHTML={{ __html: `!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/b2c2786749f2250b6db9f1d37/c01b9b6078e74872e5e2ec638.js");`}}></script>
         {/* OpenGraph tags */}
         <meta property="og:url" content={postSEO ? postURL : blogURL} />
         {postSEO ? <meta property="og:type" content="article" /> : null}
