@@ -2,4 +2,4 @@ User-agent: *
 Disallow: */tags/
 Disallow: */categories/
 
-sitemap: https://kurinsu.com/sitemap.xml
+sitemap: https://cryptisla.com/sitemap.xml

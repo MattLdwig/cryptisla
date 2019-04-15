@@ -1,6 +1,6 @@
 # Cryptisla
 
-[Live](https://cryptisla.com)
+[Live version](https://cryptisla.com)
 
 A french blog about cryptocurrencies 💰 & trading 📈, build with [Gatsby Advanced Starter](https://github.com/Vagr9K/gatsby-advanced-starter) and hosted with
 [Netlify](netlify.com/) ❤️.
