@@ -1,5 +1,5 @@
 ---
-title: "Les bougies japonaises, les principaux patterns"
+title: "Les bougies japonaises: les principaux patterns"
 cover: "/img/posts_cover/candles.jpg"
 category: "trading"
 date: "2019/04/08"

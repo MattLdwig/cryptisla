@@ -28,8 +28,8 @@ class PostListing extends React.Component {
           const style = {background: 'url(' + post.cover + ')', backgroundPosition: 'top', backgroundSize: 'cover'}
           if (post === postList[0]) {
             return (
+            <Link to={post.path} key={`${post.title}_post`} className="post-card__link">
               <div className="post-card__hero" style={style} key={post.title}>
-                <Link to={post.path} key={`${post.title}_post`} className="post-card__link">
                 <p className="post-card__complementary">
                   <span className="post-card__tag">{post.tags}</span>
                   <span className="post-card__date">{post.displayDate}</span>
@@ -40,8 +40,8 @@ class PostListing extends React.Component {
                 <div className="post-card__more">
                   <span>LIRE L'ARTICLE</span>
                 </div>
-              </Link>
-          </div>
+            </div>
+          </Link>
             )   
           }
         })}

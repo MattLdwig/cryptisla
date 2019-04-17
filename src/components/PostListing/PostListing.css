@@ -28,23 +28,15 @@
     margin-bottom: 30px;
 }
 
-.post-card__hero:before {
-    content: '';
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.22));
-    position:absolute;
-    left:0px;
-    top:0px;
-    z-index: 0;
-}
+
 
 .post-card__link {
     z-index: 1;
+    width: 100%;
 }
 
 .post-card__info {
-    margin: 0 auto;
+    margin: 0;
     color: #FFF;
 }
 
@@ -118,12 +110,20 @@
     margin: 0 auto;
 }
 
+
 .post-card__tag,
 .post-card__date {
     font-size: 0.7em;
     color: #FFF;
 }
 
+.post-card__tag {
+    padding: 0.75em 1em;
+    background-color:#D3C372;
+    color: #2f4096;
+    text-transform: uppercase;
+    font-weight: bold;
+}
 .post-card__date {
     opacity: 0.7;
     margin-left: 20px;

@@ -22,8 +22,7 @@ class Navigation extends Component {
         <ul className="primary-nav__items">
             <li className="item"><Link to={url[1].link}>👨‍🎓 GUIDES</Link></li>
             <li className="item"><Link to={url[2].link}>📈 TRADING</Link></li>
-            <li className="item"><Link to={url[3].link}>🤝 BLOCKCHAIN</Link></li>
-            <li className="item no-margin"><Link to={url[4].link}>💌 NEWSLETTER</Link></li>
+            <li className="item no-margin"><Link to={url[3].link}>🤝 BLOCKCHAIN</Link></li>
         </ul>
         </nav>
     );

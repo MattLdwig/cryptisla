@@ -39,12 +39,6 @@ const config = {
       url: "https://facebook.com/cryptisla",
       iconClassName: "fa fa-envelope",
       icon: "/icons/facebook.svg"
-    },
-    {
-      label: "Medium",
-      url: "https://medium.com/cryptisla",
-      iconClassName: "fa fa-envelope",
-      icon: "/icons/medium.svg"
     }
   ],
   menuLink: [
@@ -63,10 +57,6 @@ const config = {
     {
       name: 'blockchain',
       link: '/blockchain'
-    },
-    {
-      name: 'newsletter',
-      link: '#newsletter'
     }
   ],
   copyright: "Copyright © 2019. Cryptisla", // Copyright string for the footer of the website and RSS feed.

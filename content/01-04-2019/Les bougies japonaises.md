@@ -1,5 +1,5 @@
 ---
-title: "Comprendre les bougies japonaises: la lecture des bougies."
+title: "Les bougies japonaises: la lecture des bougies."
 cover: "/img/posts_cover/candles.jpg"
 category: "trading"
 date: "2019/04/01"
@@ -49,7 +49,7 @@ Chaque bougie se compose de deux parties:
 * Le **corps** (la partie centrale) qui représente la variation du prix entre l'ouverture et la clôture. **Plus le corps est important, plus la variation est grande.**
 * Les **ombres** (les deux segments entourant le corps) qui représentent les deux extrêmes du cours. Le point le plus haut de l'ombre haute (le segment supérieur) représente le plus haut prix atteint pendant la durée de la bougie. Le point le plus bas de l'ombre basse (le segment inférieur), représente quand à lui le prix le plus bas atteint pendant cette durée. 
 
-![schema d'une bougie japonaise](C:\Users\mattl\Desktop\Blogs\Articles\cryptisla\01_Candles\custom – 2.png)
+![schema d'une bougie japonaise](./01_Candles/custom–2.png)
 
 L'anglais étant omniprésent dans le monde du trading, vous entendrez souvent les mots suivants pour décrire les concepts évoqués ci-dessus:
 
