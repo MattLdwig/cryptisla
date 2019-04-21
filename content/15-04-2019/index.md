@@ -16,7 +16,7 @@ Pour vous aider, voici une petite sélection des sites les plus utiles pour vous
 
 ## Graphiques et analyses techniques
 
-* [TradingView](https://www.tradingview.com): Outil incontournable de l'analyse technique et meilleur ami du trader de cryptos. Dispose d'une version gratuite limitée (mais suffisante pour se lancer) puis environ 13€ mensuel pour la version Pro (avec 30 jours d'essai). 
+* [TradingView](https://tradingview.go2cloud.org/aff_c?offer_id=2&aff_id=16953): Outil incontournable de l'analyse technique et meilleur ami du trader de cryptos. Dispose d'une version gratuite limitée (mais suffisante pour se lancer) puis environ 13€ mensuel pour la version Pro (avec 30 jours d'essai). 
 
 * [Coinigy](coinigy.com/): Utilisez l'ensemble de vos comptes de trading depuis une seule et même interface. Très utile si vous jonglez entre de multiples exchanges et que vous souhaitez vous faciliter la vie. Essai gratuit de 30 jours, puis environ 15 € mensuel.
 

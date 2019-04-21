@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cryptisla.com
+Token: c183b7bcd14afa57f7e40b5e94da988bb05ad2602c5ce334b693ad570c71cbf0
