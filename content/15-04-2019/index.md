@@ -1,7 +1,7 @@
 ---
 title: "Les sites indispensables pour trader les cryptos"
 cover: "/img/posts_cover/blue_gradient.jpg"
-category: "trading"
+category: "guides"
 date: "2019/04/15"
 slug: "sites-indispensables-cryptos"
 description: "Une sélection des meilleurs sites et outils à connaître et à mettre en favori pour faciliter votre entrée dans le monde des cryptomonnaies."

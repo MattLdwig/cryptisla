@@ -1,4 +1,1014 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Cryptisla]]></title><description><![CDATA[Découvrir le trading de crypto-monnaies et la blockchain simplement.]]></description><link>https://cryptisla.com/</link><image><url>https://cryptisla.com//logos/logo-512.png</url><title>Cryptisla</title><link>https://cryptisla.com/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Thu, 18 Apr 2019 15:29:41 GMT</lastBuildDate><atom:link href="https://cryptisla.com//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2019. Cryptisla]]></copyright><item><title><![CDATA[Les sites indispensables pour trader les cryptos]]></title><link>https://cryptisla.com//sites-indispensables-cryptos</link><guid isPermaLink="false">https://cryptisla.com//sites-indispensables-cryptos</guid><category><![CDATA[Guide]]></category><pubDate>Sun, 14 Apr 2019 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vous êtes décidé à vous lancer dans les cryptos et à sortir la carte bleue pour acheter vos premiers tokens. Bravo et bienvenue dans la crypto-sphère. Un nouveau monde s&apos;ouvre à vous. Mais il faut bien l&apos;avouer, ce monde là peut être assez complexe et il est parfois difficile d&apos;y naviguer. &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Cryptisla]]></title><description><![CDATA[Découvrir le trading de crypto-monnaies et la blockchain simplement.]]></description><link>https://cryptisla.com/</link><image><url>https://cryptisla.com//logos/logo-512.png</url><title>Cryptisla</title><link>https://cryptisla.com/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Tue, 23 Apr 2019 07:19:40 GMT</lastBuildDate><atom:link href="https://cryptisla.com//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2019. Cryptisla]]></copyright><item><title><![CDATA[Tuto Coinbase, le guide complet pour débutants.]]></title><link>https://cryptisla.com//tuto-coinbase</link><guid isPermaLink="false">https://cryptisla.com//tuto-coinbase</guid><category><![CDATA[Guide]]></category><pubDate>Mon, 22 Apr 2019 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;💰 8€ offerts lors de vos premiers achats de cryptos sur &lt;a href=&quot;https://www.coinbase.com/join/577e83861d697a795c000bb6&quot;&gt;Coinbase&lt;/a&gt; 👈 ! 💰&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;quest-ce-que-coinbase-&quot;&gt;&lt;a href=&quot;#quest-ce-que-coinbase-&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Qu&apos;est-ce que Coinbase ?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Coinbase&lt;/strong&gt; est un service en ligne servant à la fois de portefeuille de devises numériques (wallet) et de place de marché (exchange) basé à San Francisco. &lt;/p&gt;
+&lt;p&gt;Fondée en 2012 par Brian Armstrong, Fred Ehrsam (ancien trader de chez Goldman Sachs) et Ben Reeves (co-fondateur de blockchain.info), l&apos;entreprise californienne compte aujourd&apos;hui plus de 20 millions de clients, répartis dans une trentaine de pays à travers le globe.&lt;/p&gt;
+&lt;h2 id=&quot;pourquoi-utiliser-coinbase-&quot;&gt;&lt;a href=&quot;#pourquoi-utiliser-coinbase-&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pourquoi utiliser Coinbase ?&lt;/h2&gt;
+&lt;p&gt;La grande force de Coinbase tient dans sa &lt;strong&gt;simplicité d&apos;utilisation&lt;/strong&gt;, ce qui fait du service l&apos;une des portes d&apos;entrées préférées des nouveaux arrivants dans l&apos;univers crypto. À contrario de certains exchanges où la navigation peut s&apos;avérer complexe, Coinbase se veut accessible et facilement compréhensible. &lt;/p&gt;
+&lt;p&gt;Une politique d&apos;ouverture au plus grand nombre qui fait du service l&apos;un des leaders actuels du marché en terme de nombre d&apos;utilisateurs. &lt;/p&gt;
+&lt;p&gt;L&apos;autre avantage de Coinbase, c&apos;est sa large variété de moyens de paiement disponibles. Alors que bon nombre d&apos;exchanges n&apos;acceptent que les virements bancaires comme moyen de dépôt, Coinbase vous offre la possibilité d&apos;acheter des cryptomonnaies directement depuis votre carte bancaire. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Il est également possible d&apos;y utiliser Paypal, mais uniquement dans le sens des retraits (&lt;strong&gt;impossible donc de virer l&apos;argent stocké sur votre compte Paypal sur Coinbase&lt;/strong&gt;)&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;comment-sinscrire-sur-coinbase-&quot;&gt;&lt;a href=&quot;#comment-sinscrire-sur-coinbase-&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Comment s&apos;inscrire sur Coinbase ?&lt;/h2&gt;
+&lt;p&gt;Pour ouvrir un compte sur Coinbase, rendez-vous sur &lt;a href=&quot;https://www.coinbase.com/join/577e83861d697a795c000bb6&quot;&gt;coinbase.com&lt;/a&gt; et cliquez sur le bouton &quot;&lt;strong&gt;Get started&lt;/strong&gt;&quot;, en haut à droite de votre écran (si vous ne parlez pas anglais, pas d&apos;inquiétude, nous passerons le site en français dès l&apos;inscription terminée).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: Le lien ci-dessus est un lien d&apos;affiliation, celui vous vous permettra de bénéficier de &lt;strong&gt;8€ bonus pour 88€ d&apos;achat&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conseil&lt;/em&gt;: Avant de commencer, si vous procédez à l&apos;inscription depuis un PC (ou un mac) et que vous ne disposez pas de webcam, munissez vous d&apos;un scan (ou de photos) de votre passeport ou des deux faces de votre carte d&apos;identité, vous en aurez besoin bientôt. &lt;/p&gt;
+&lt;p&gt;Si vous disposez d&apos;une webcam (de bonne qualité) ou que vous procédez à l&apos;inscription depuis votre mobile, vous pouvez sautez cette étape.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6c20d000df5d1265eb5ce5774e37db19/0e220/01_coinbase_acceuil.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 51.44385026737967%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAHfeg1ENeKf/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECBAMUIP/aAAgBAQABBQKFRjqRNXJx/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAES/9oACAEDAQE/AYRCP//EABgRAAMBAQAAAAAAAAAAAAAAAAABAgMT/9oACAECAQE/AXrbO9H/xAAcEAABAwUAAAAAAAAAAAAAAAAAAQIRICEiQZH/2gAIAQEABj8CzWCzjXaP/8QAGxAAAwACAwAAAAAAAAAAAAAAAAERECExcYH/2gAIAQEAAT8hdvQmxzkXg76QMmP/2gAMAwEAAgADAAAAEDcf/8QAFxEBAAMAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPxAHKi//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFx/9oACAECAQE/EGlpmf/EAB0QAQACAQUBAAAAAAAAAAAAAAEAESEQMUFRceH/2gAIAQEAAT8QwjqlKh9nDH0GWVkvC/E2koOA0//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6c20d000df5d1265eb5ce5774e37db19/51f7f/01_coinbase_acceuil.jpg&quot;
+        srcset=&quot;/static/6c20d000df5d1265eb5ce5774e37db19/663ea/01_coinbase_acceuil.jpg 190w,
+/static/6c20d000df5d1265eb5ce5774e37db19/fb0bd/01_coinbase_acceuil.jpg 380w,
+/static/6c20d000df5d1265eb5ce5774e37db19/51f7f/01_coinbase_acceuil.jpg 760w,
+/static/6c20d000df5d1265eb5ce5774e37db19/704f4/01_coinbase_acceuil.jpg 1140w,
+/static/6c20d000df5d1265eb5ce5774e37db19/0a3a3/01_coinbase_acceuil.jpg 1520w,
+/static/6c20d000df5d1265eb5ce5774e37db19/0e220/01_coinbase_acceuil.jpg 1870w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Entrer vos informations, incluant votre prénom (First Name), votre nom (Last name), votre email et votre mot de passe (&lt;strong&gt;n&apos;oubliez pas d&apos;utiliser un password sécurisé&lt;/strong&gt;). Cochez la case qui confirme que vous avez plus de 18 ans (si vous êtes mineur, désolé mais il ne vous sera pas possible d&apos;utiliser le service) et que vous acceptez les conditions d&apos;utilisation du service et cliquez sur &quot;&lt;strong&gt;Create account&lt;/strong&gt;&quot;.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/22c60cf731c629c45f96105773cd8878/5864b/02_coinbase_sign.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 51.34264232008593%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQD/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEBf/aAAwDAQACEAMQAAABltgaUxoYf//EABoQAQABBQAAAAAAAAAAAAAAAAIAAQMEEDH/2gAIAQEAAQUCp3IFsnZn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFhEBAQEAAAAAAAAAAAAAAAAAARAh/9oACAECAQE/AU2f/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAESILH/2gAIAQEABj8CQobX/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARMRAh/9oACAEBAAE/ITZOLFR237rtwCZP/9oADAMBAAIAAwAAABB7H//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxAQEyy//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAgEBPxBUI8tv/8QAHBABAAICAwEAAAAAAAAAAAAAAQARMXEQIUFR/9oACAEBAAE/EAwADq5b/a/BXNnKu4hsPfpP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/22c60cf731c629c45f96105773cd8878/51f7f/02_coinbase_sign.jpg&quot;
+        srcset=&quot;/static/22c60cf731c629c45f96105773cd8878/663ea/02_coinbase_sign.jpg 190w,
+/static/22c60cf731c629c45f96105773cd8878/fb0bd/02_coinbase_sign.jpg 380w,
+/static/22c60cf731c629c45f96105773cd8878/51f7f/02_coinbase_sign.jpg 760w,
+/static/22c60cf731c629c45f96105773cd8878/704f4/02_coinbase_sign.jpg 1140w,
+/static/22c60cf731c629c45f96105773cd8878/0a3a3/02_coinbase_sign.jpg 1520w,
+/static/22c60cf731c629c45f96105773cd8878/5864b/02_coinbase_sign.jpg 1862w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;L&apos;écran suivant vous informe que Coinbase se conforme au RGPD, cliquez sur &quot;&lt;strong&gt;next&lt;/strong&gt;&quot;.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ca77c139e0711a02060775be7542414a/efde6/03_coinbase_rgpd.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 51.47770016120366%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQD/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABlriacpoZ/8QAGRAAAwADAAAAAAAAAAAAAAAAAQIDABAx/9oACAEBAAEFAh2yyA2uf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABcRAQADAAAAAAAAAAAAAAAAAAEQESH/2gAIAQIBAT8BTbj/xAAYEAACAwAAAAAAAAAAAAAAAAAAARMgIf/aAAgBAQAGPwIUb2v/xAAZEAACAwEAAAAAAAAAAAAAAAABEQAhMSD/2gAIAQEAAT8hRHjuGZjXfAAjJ//aAAwDAQACAAMAAAAQN9//xAAWEQEBAQAAAAAAAAAAAAAAAAARAQD/2gAIAQMBAT8QlIGN/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxBrSsKf/8QAGhABAAMAAwAAAAAAAAAAAAAAAQARISBBgf/aAAgBAQABPxAo3THi9jUsOjlcEKh3sn//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ca77c139e0711a02060775be7542414a/51f7f/03_coinbase_rgpd.jpg&quot;
+        srcset=&quot;/static/ca77c139e0711a02060775be7542414a/663ea/03_coinbase_rgpd.jpg 190w,
+/static/ca77c139e0711a02060775be7542414a/fb0bd/03_coinbase_rgpd.jpg 380w,
+/static/ca77c139e0711a02060775be7542414a/51f7f/03_coinbase_rgpd.jpg 760w,
+/static/ca77c139e0711a02060775be7542414a/704f4/03_coinbase_rgpd.jpg 1140w,
+/static/ca77c139e0711a02060775be7542414a/0a3a3/03_coinbase_rgpd.jpg 1520w,
+/static/ca77c139e0711a02060775be7542414a/efde6/03_coinbase_rgpd.jpg 1861w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Coinbase vous proposera ensuite de vous abonner à leur newsletter. À vous de voir si vous souhaitez recevoir ou non des emails réguliers. Cliquez sur &quot;Yes&quot; ou &quot;No&quot; en fonction de vos préférences.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e02242f531db172ce86e42a9b0eb184a/e3272/04_coinbase_newsletter.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 51.41938939475094%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQD/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABlqjacpqZ/8QAGBABAAMBAAAAAAAAAAAAAAAAAQIDMRD/2gAIAQEAAQUCNuKg7HP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/AWtKf//EABYQAAMAAAAAAAAAAAAAAAAAAAAgI//aAAgBAQAGPwImv//EABsQAAICAwEAAAAAAAAAAAAAAAERACEgMUFR/9oACAEBAAE/IUR6dwJLN98wEGwn/9oADAMBAAIAAwAAABA/3//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxAYTTf/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAECAQE/EKo7g4P/xAAbEAEAAgIDAAAAAAAAAAAAAAABABExQSAhgf/aAAgBAQABPxAo848XGMx2zpwUIPeyf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e02242f531db172ce86e42a9b0eb184a/51f7f/04_coinbase_newsletter.jpg&quot;
+        srcset=&quot;/static/e02242f531db172ce86e42a9b0eb184a/663ea/04_coinbase_newsletter.jpg 190w,
+/static/e02242f531db172ce86e42a9b0eb184a/fb0bd/04_coinbase_newsletter.jpg 380w,
+/static/e02242f531db172ce86e42a9b0eb184a/51f7f/04_coinbase_newsletter.jpg 760w,
+/static/e02242f531db172ce86e42a9b0eb184a/704f4/04_coinbase_newsletter.jpg 1140w,
+/static/e02242f531db172ce86e42a9b0eb184a/0a3a3/04_coinbase_newsletter.jpg 1520w,
+/static/e02242f531db172ce86e42a9b0eb184a/e3272/04_coinbase_newsletter.jpg 1867w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vous aurez ensuite droit à la petite phase de captcha servant à vérifier que vous êtes bien un utilisateur humain (à moins, comme je le soupçonne, que ce ne soit une invention créée avec la ferme intention de vous rendre fou).&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6b3fe9e0a16043f2bbe0f37ac192c0a5/93024/05_coinbase_capcha.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 51.33832976445396%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBP/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/2gAMAwEAAhADEAAAAdTU6J0UMP/EABcQAQEBAQAAAAAAAAAAAAAAAAEAERD/2gAIAQEAAQUCtHuAl//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAgEBPwFdJ//EABgQAQADAQAAAAAAAAAAAAAAAAEAECER/9oACAEBAAY/Aphy8Ar/xAAaEAACAwEBAAAAAAAAAAAAAAAAARExURAh/9oACAEBAAE/IVaPfJB71X0Yih//2gAMAwEAAgADAAAAEJAP/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAh/9oACAEDAQE/EAxn/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARUf/aAAgBAgEBPxBgu23/xAAaEAEBAAMBAQAAAAAAAAAAAAABEQAhMRBB/9oACAEBAAE/ECJPFLk1Z0ap59xRpG5F24BVB3n/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6b3fe9e0a16043f2bbe0f37ac192c0a5/51f7f/05_coinbase_capcha.jpg&quot;
+        srcset=&quot;/static/6b3fe9e0a16043f2bbe0f37ac192c0a5/663ea/05_coinbase_capcha.jpg 190w,
+/static/6b3fe9e0a16043f2bbe0f37ac192c0a5/fb0bd/05_coinbase_capcha.jpg 380w,
+/static/6b3fe9e0a16043f2bbe0f37ac192c0a5/51f7f/05_coinbase_capcha.jpg 760w,
+/static/6b3fe9e0a16043f2bbe0f37ac192c0a5/704f4/05_coinbase_capcha.jpg 1140w,
+/static/6b3fe9e0a16043f2bbe0f37ac192c0a5/0a3a3/05_coinbase_capcha.jpg 1520w,
+/static/6b3fe9e0a16043f2bbe0f37ac192c0a5/93024/05_coinbase_capcha.jpg 1868w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Une fois le captcha vérifié, un email de confirmation sera envoyé à l&apos;adresse que vous avez indiquée. Ouvrez le et &lt;strong&gt;cliquez sur le lien de confirmation&lt;/strong&gt; qu&apos;il contient, ce qui vous permettra de passer à l&apos;étape suivante du processus.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6e81523c4641d3ad67dab7ab76269456/ec48b/06_coinbase_verify.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.66242713301536%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEBf/aAAwDAQACEAMQAAABluz2nMDD/8QAGRAAAQUAAAAAAAAAAAAAAAAAAgEDBCAx/9oACAEBAAEFAk2Q0ADT/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFhEBAQEAAAAAAAAAAAAAAAAAAREQ/9oACAECAQE/AUbc/8QAFxABAAMAAAAAAAAAAAAAAAAAAQACIP/aAAgBAQAGPwKDXP8A/8QAGRABAQADAQAAAAAAAAAAAAAAAREAIDFB/9oACAEBAAE/IRSPriItWduv/9oADAMBAAIAAwAAABAzz//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxAQEyf/xAAXEQEBAQEAAAAAAAAAAAAAAAABERCh/9oACAECAQE/EFAMnc//xAAaEAEAAgMBAAAAAAAAAAAAAAABEBEAITGR/9oACAEBAAE/EC5QB9x/CyE6VNBwj//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6e81523c4641d3ad67dab7ab76269456/51f7f/06_coinbase_verify.jpg&quot;
+        srcset=&quot;/static/6e81523c4641d3ad67dab7ab76269456/663ea/06_coinbase_verify.jpg 190w,
+/static/6e81523c4641d3ad67dab7ab76269456/fb0bd/06_coinbase_verify.jpg 380w,
+/static/6e81523c4641d3ad67dab7ab76269456/51f7f/06_coinbase_verify.jpg 760w,
+/static/6e81523c4641d3ad67dab7ab76269456/704f4/06_coinbase_verify.jpg 1140w,
+/static/6e81523c4641d3ad67dab7ab76269456/0a3a3/06_coinbase_verify.jpg 1520w,
+/static/6e81523c4641d3ad67dab7ab76269456/ec48b/06_coinbase_verify.jpg 1887w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On passe à la vérification téléphonique. Entrez votre numéro de mobile, &lt;strong&gt;sans le 0 initial&lt;/strong&gt; et cliquez sur &quot;&lt;strong&gt;Send Code&lt;/strong&gt;&quot;.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/08ab96ce4ca855de494755aa8fab9dc7/deb2c/07_coinbase_phone.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQF/9oADAMBAAIQAxAAAAGS6BpzAw//xAAZEAACAwEAAAAAAAAAAAAAAAACAwEEIDH/2gAIAQEAAQUCjthawHH/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAXEQEAAwAAAAAAAAAAAAAAAAABEBEh/9oACAECAQE/AU24/8QAFxABAAMAAAAAAAAAAAAAAAAAAQASIP/aAAgBAQAGPwKFHP8A/8QAGRABAQADAQAAAAAAAAAAAAAAAREAICFR/9oACAEBAAE/IRQPuKFFY9uv/9oADAMBAAIAAwAAABCzz//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxAQEyf/xAAXEQEAAwAAAAAAAAAAAAAAAAABEDGh/9oACAECAQE/EFQGtj//xAAZEAEBAQADAAAAAAAAAAAAAAABERAAMXH/2gAIAQEAAT8QLpiB8vEXySYJsz//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/08ab96ce4ca855de494755aa8fab9dc7/51f7f/07_coinbase_phone.jpg&quot;
+        srcset=&quot;/static/08ab96ce4ca855de494755aa8fab9dc7/663ea/07_coinbase_phone.jpg 190w,
+/static/08ab96ce4ca855de494755aa8fab9dc7/fb0bd/07_coinbase_phone.jpg 380w,
+/static/08ab96ce4ca855de494755aa8fab9dc7/51f7f/07_coinbase_phone.jpg 760w,
+/static/08ab96ce4ca855de494755aa8fab9dc7/704f4/07_coinbase_phone.jpg 1140w,
+/static/08ab96ce4ca855de494755aa8fab9dc7/0a3a3/07_coinbase_phone.jpg 1520w,
+/static/08ab96ce4ca855de494755aa8fab9dc7/deb2c/07_coinbase_phone.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Un message a dû arriver sur votre téléphone, celui-ci comporte un code à 7 chiffres. Entrez les dans le champ approprié et cliquez sur &quot;&lt;strong&gt;Submit&lt;/strong&gt;&quot; (si vous n&apos;avez pas reçu le message au bout de quelques minutes, vous pouvez le renvoyer en cliquant sur &quot;Re-send SMS&quot;, voir changer de numéro en cliquant sur &quot;Use another phone number&quot;).&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/36fface455a19263a47d48c03e153a76/9ee0d/08_coinbase_sms.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.716941051513544%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQF/9oADAMBAAIQAxAAAAGSuNpygx//xAAYEAACAwAAAAAAAAAAAAAAAAABAwIgMf/aAAgBAQABBQIa6KgKf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAgEBPwFNn//EABgQAAIDAAAAAAAAAAAAAAAAAAABERMg/9oACAEBAAY/AhVuc//EABkQAQACAwAAAAAAAAAAAAAAABEAIQEgMf/aAAgBAQABPyEB43MzKbvX/9oADAMBAAIAAwAAABC/z//EABYRAQEBAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPxAYSZ//xAAXEQEAAwAAAAAAAAAAAAAAAAABEBEx/9oACAECAQE/EFQ3kf/EABkQAQEAAwEAAAAAAAAAAAAAAAERACAhYf/aAAgBAQABPxAo3EBeXuKxVg6hNf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/36fface455a19263a47d48c03e153a76/51f7f/08_coinbase_sms.jpg&quot;
+        srcset=&quot;/static/36fface455a19263a47d48c03e153a76/663ea/08_coinbase_sms.jpg 190w,
+/static/36fface455a19263a47d48c03e153a76/fb0bd/08_coinbase_sms.jpg 380w,
+/static/36fface455a19263a47d48c03e153a76/51f7f/08_coinbase_sms.jpg 760w,
+/static/36fface455a19263a47d48c03e153a76/704f4/08_coinbase_sms.jpg 1140w,
+/static/36fface455a19263a47d48c03e153a76/0a3a3/08_coinbase_sms.jpg 1520w,
+/static/36fface455a19263a47d48c03e153a76/9ee0d/08_coinbase_sms.jpg 1883w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On y est presque, plus qu&apos;une étape majeure et votre compte sera enfin prêt à être utiliser. Mais avant, il va falloir passer par la case KYC.&lt;/p&gt;
+&lt;h2 id=&quot;la-vérification-de-votre-identité-le-kyc&quot;&gt;&lt;a href=&quot;#la-v%C3%A9rification-de-votre-identit%C3%A9-le-kyc&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;La vérification de votre identité, le KYC&lt;/h2&gt;
+&lt;p&gt;Parvenu à cette étape, il va falloir apporter à Coinbase la &lt;strong&gt;preuve de votre identité&lt;/strong&gt;. Si vous vouliez de l&apos;anonymat, désolé mais c&apos;est raté.&lt;/p&gt;
+&lt;p&gt;Remplissez les champs suivants avec vos informations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First name (Prénom)&lt;/li&gt;
+&lt;li&gt;Last Name (Nom)&lt;/li&gt;
+&lt;li&gt;Date of Birth (Date de naissance)&lt;/li&gt;
+&lt;li&gt;Street Address (Adresse)&lt;/li&gt;
+&lt;li&gt;City/Town (Ville)&lt;/li&gt;
+&lt;li&gt;Post code (Code postal)&lt;/li&gt;
+&lt;li&gt;Country (Pays, sélectionné automatiquement en principe)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pour le reste des champs de droite, rien ne vous oblige à dire la vérité. &lt;/p&gt;
+&lt;p&gt;Le premier &quot;What will you use Coinbase for ?&quot; vous demande de quelle manière vous allez utilisez le service (Trading ou Investissement fera très bien l&apos;affaire). &lt;/p&gt;
+&lt;p&gt;Le second &quot;What is your source of funds ?&quot; cherche à savoir d&apos;où provient votre argent. &lt;/p&gt;
+&lt;p&gt;Le troisième &quot;Current Occupation&quot; porte sur le secteur d&apos;activité dans lequel vous travaillez actuellement (mettez ce que vous voulez) et le dernier &quot;Employer&quot; vous demande d&apos;indiquer le nom de votre employeur (n&apos;importe quelle suite de lettre aléatoire fonctionnera très bien ici).&lt;/p&gt;
+&lt;p&gt;Une fois ceci rempli, cliquez sur &quot;&lt;strong&gt;Continue&lt;/strong&gt;&quot;.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f46520698766d1108bb932b11b12a56e/869d7/09_coinbase_verifyID.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.509383378016096%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUCBP/EABUBAQEAAAAAAAAAAAAAAAAAAAME/9oADAMBAAIQAxAAAAHVWN1VFLFZf//EABwQAAEDBQAAAAAAAAAAAAAAAAIAAQMEEBETM//aAAgBAQABBQKkbMpgOtQdJCe3/8QAFhEAAwAAAAAAAAAAAAAAAAAAAhAx/9oACAEDAQE/ARi//8QAFxEAAwEAAAAAAAAAAAAAAAAAAQMQIv/aAAgBAgEBPwFg3P/EABsQAAEEAwAAAAAAAAAAAAAAAAEAECExAlGB/9oACAEBAAY/Ap0soFNxGTTf/8QAHRABAAEDBQAAAAAAAAAAAAAAAREAECExQVFhof/aAAgBAQABPyEIwJLWic926s0wYpB9S3//2gAMAwEAAgADAAAAEEPP/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EDi//8QAFxEBAAMAAAAAAAAAAAAAAAAAARAhUf/aAAgBAgEBPxBk3kf/xAAbEAEBAAIDAQAAAAAAAAAAAAABEQAxECFRQf/aAAgBAQABPxBbQKAfp7jYXIM3bvWGsdLKuxnmIFQVSvOP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f46520698766d1108bb932b11b12a56e/51f7f/09_coinbase_verifyID.jpg&quot;
+        srcset=&quot;/static/f46520698766d1108bb932b11b12a56e/663ea/09_coinbase_verifyID.jpg 190w,
+/static/f46520698766d1108bb932b11b12a56e/fb0bd/09_coinbase_verifyID.jpg 380w,
+/static/f46520698766d1108bb932b11b12a56e/51f7f/09_coinbase_verifyID.jpg 760w,
+/static/f46520698766d1108bb932b11b12a56e/704f4/09_coinbase_verifyID.jpg 1140w,
+/static/f46520698766d1108bb932b11b12a56e/0a3a3/09_coinbase_verifyID.jpg 1520w,
+/static/f46520698766d1108bb932b11b12a56e/869d7/09_coinbase_verifyID.jpg 1865w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Courage, il ne reste plus qu&apos;une seule et unique étape avant d&apos;avoir enfin un compte actif. &lt;/p&gt;
+&lt;p&gt;Mais avant, il va falloir fournir à Coinbase la preuve que vous ne lui avez pas menti sur votre identité. &lt;/p&gt;
+&lt;p&gt;Choisissez le type de papiers officiels que vous souhaitez utiliser (dans l&apos;ordre passeport, permis de conduire et carte d&apos;identité) et uploadez les documents correspondants. Un scan couleur ou une photo prise avec votre smartphone fera très bien l&apos;affaire (assurez vous cependant que les informations soient clairement lisibles). &lt;/p&gt;
+&lt;p&gt;Si vous disposez d&apos;une webcam, ou que vous procédez à l&apos;inscription depuis un mobile, vous pouvez utilisez ces derniers pour prendre les photos demandées.&lt;/p&gt;
+&lt;p&gt;Note: Pour la carte d&apos;identité, &quot;Front&quot; correspond à l&apos;avant de votre carte, &quot;Back&quot; à l&apos;arrière.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ce99c4a05edf3a65bca13b61bb76ab89/26c7a/10_coinbase_kyc.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.69002123142251%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAMEBf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAX/2gAMAwEAAhADEAAAAYL+W0ZgYP/EABkQAQACAwAAAAAAAAAAAAAAAAMCEAEREv/aAAgBAQABBQIo9I4QgVbzX//EABYRAAMAAAAAAAAAAAAAAAAAAAEQMf/aAAgBAwEBPwERf//EABgRAAIDAAAAAAAAAAAAAAAAAAECEBIx/9oACAECAQE/AWBtsf/EABoQAAICAwAAAAAAAAAAAAAAAAECABESIEH/2gAIAQEABj8CVT2ZC9f/xAAZEAEAAwEBAAAAAAAAAAAAAAABABAxESH/2gAIAQEAAT8hDMLjHXqE1rJ01a//2gAMAwEAAgADAAAAEPfP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QQISf/8QAFxEBAAMAAAAAAAAAAAAAAAAAARARUf/aAAgBAgEBPxBQShkf/8QAGxABAAIDAQEAAAAAAAAAAAAAAREhABAxQVH/2gAIAQEAAT8Qkx5Rh5lKmCwtjUthRPTORR8XX//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ce99c4a05edf3a65bca13b61bb76ab89/51f7f/10_coinbase_kyc.jpg&quot;
+        srcset=&quot;/static/ce99c4a05edf3a65bca13b61bb76ab89/663ea/10_coinbase_kyc.jpg 190w,
+/static/ce99c4a05edf3a65bca13b61bb76ab89/fb0bd/10_coinbase_kyc.jpg 380w,
+/static/ce99c4a05edf3a65bca13b61bb76ab89/51f7f/10_coinbase_kyc.jpg 760w,
+/static/ce99c4a05edf3a65bca13b61bb76ab89/704f4/10_coinbase_kyc.jpg 1140w,
+/static/ce99c4a05edf3a65bca13b61bb76ab89/0a3a3/10_coinbase_kyc.jpg 1520w,
+/static/ce99c4a05edf3a65bca13b61bb76ab89/26c7a/10_coinbase_kyc.jpg 1884w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Une fois les documents envoyés, attendez quelques secondes le temps que la vérification soit complète et réjouissez vous. Vous disposez maintenant d&apos;un compte Coinbase. &lt;/p&gt;
+&lt;p&gt;Ne reste plus qu&apos;à fournir des informations de paiement pour pouvoir l&apos;utiliser vraiment et acheter vos premières cryptomonnaies.&lt;/p&gt;
+&lt;h2 id=&quot;ajouter-des-méthodes-de-paiement&quot;&gt;&lt;a href=&quot;#ajouter-des-m%C3%A9thodes-de-paiement&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Ajouter des méthodes de paiement&lt;/h2&gt;
+&lt;p&gt;Parvenu à ce point, deux solutions: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;soit vous liez les moyens de paiement de votre choix dès maintenant en sélectionnant l&apos;option de votre choix (n&apos;oubliez pas que Paypal ne peut être utilisé que pour des retraits), &lt;/li&gt;
+&lt;li&gt;soit, si vous êtes plus à l&apos;aise avec le français que l&apos;anglais, vous fermez cette petite popup pour le moment. Ne vous inquiétez pas, nous la retrouverons bientôt. Comme ce guide se destine à un large public, et que certains d&apos;entre vous ne sont peut être pas particulièrement anglophones, c&apos;est l&apos;option que j&apos;ai choisie de prendre pour la suite de ce guide.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9c0b6ca36c34a4aa993a738d92636069/fcd98/11_coinbase_home.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 51.00379815518177%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAFXHzcaD//EABkQAAIDAQAAAAAAAAAAAAAAAAECAxExEP/aAAgBAQABBQIKLniRVocbBn//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAAQIQESEx/9oACAEBAAY/AloWIo5aP//EABwQAQACAQUAAAAAAAAAAAAAAAEAESFBUWGRof/aAAgBAQABPyFpIpdonAtqcTqakyd5nmn/2gAMAwEAAgADAAAAEFvv/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oACAEDAQE/EMiP/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBITH/2gAIAQIBAT8Qt6OT/8QAHBABAAIDAAMAAAAAAAAAAAAAAQARMVGhIbHB/9oACAEBAAE/EEYwCU3H5tp2U7hT80eTG3+DnzOL6n//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/9c0b6ca36c34a4aa993a738d92636069/51f7f/11_coinbase_home.jpg&quot;
+        srcset=&quot;/static/9c0b6ca36c34a4aa993a738d92636069/663ea/11_coinbase_home.jpg 190w,
+/static/9c0b6ca36c34a4aa993a738d92636069/fb0bd/11_coinbase_home.jpg 380w,
+/static/9c0b6ca36c34a4aa993a738d92636069/51f7f/11_coinbase_home.jpg 760w,
+/static/9c0b6ca36c34a4aa993a738d92636069/704f4/11_coinbase_home.jpg 1140w,
+/static/9c0b6ca36c34a4aa993a738d92636069/0a3a3/11_coinbase_home.jpg 1520w,
+/static/9c0b6ca36c34a4aa993a738d92636069/fcd98/11_coinbase_home.jpg 1843w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;passer-coinbase-en-français&quot;&gt;&lt;a href=&quot;#passer-coinbase-en-fran%C3%A7ais&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Passer Coinbase en français&lt;/h3&gt;
+&lt;p&gt;En bas à droite du site vous trouverez un menu déroulant vous permettant de changer la langue, et de quitter la langue de la perfide Albion pour retrouver notre bon vieux français. &lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/85e8eeb529b4329fe34adae7fb27c249/20b5f/12_coinbase_fr.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 80.57784911717496%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB7a1WzCgf/8QAGBABAAMBAAAAAAAAAAAAAAAAAgABExD/2gAIAQEAAQUCzEsCZjiNKp//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8BrKz/xAAbEAABBQEBAAAAAAAAAAAAAAACAAEQMpERIf/aAAgBAQAGPwKrYvRFVHI4TR//xAAaEAEBAAMBAQAAAAAAAAAAAAABABExYfEh/9oACAEBAAE/IfDWHj6OF4SdkkAnYAANF//aAAwDAQACAAMAAAAQZB//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFR/9oACAEDAQE/EIsIj//EABURAQEAAAAAAAAAAAAAAAAAAABh/9oACAECAQE/ELLP/8QAGxABAQEBAAMBAAAAAAAAAAAAAREAITFBUWH/2gAIAQEAAT8QaevAYMCdK4iSWD0njNgYk+E7ibgAH5v/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/85e8eeb529b4329fe34adae7fb27c249/51f7f/12_coinbase_fr.jpg&quot;
+        srcset=&quot;/static/85e8eeb529b4329fe34adae7fb27c249/663ea/12_coinbase_fr.jpg 190w,
+/static/85e8eeb529b4329fe34adae7fb27c249/fb0bd/12_coinbase_fr.jpg 380w,
+/static/85e8eeb529b4329fe34adae7fb27c249/51f7f/12_coinbase_fr.jpg 760w,
+/static/85e8eeb529b4329fe34adae7fb27c249/704f4/12_coinbase_fr.jpg 1140w,
+/static/85e8eeb529b4329fe34adae7fb27c249/0a3a3/12_coinbase_fr.jpg 1520w,
+/static/85e8eeb529b4329fe34adae7fb27c249/20b5f/12_coinbase_fr.jpg 1869w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nous voici avec un site en français, parfait. Mais maintenant il va falloir retrouver notre popup nous permettant d&apos;ajouter des moyens de paiements. Pour ce faire rien de plus simple, cliquer sur &quot;&lt;strong&gt;Paramètres&lt;/strong&gt;&quot;, puis sur &quot;&lt;strong&gt;Comptes associés&lt;/strong&gt;&quot;. Enfin, cliquer sur le bouton central &quot;&lt;strong&gt;Associer un nouveau compte&lt;/strong&gt;&quot;.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3875f4482ef61310ae5f2319cf2dac1b/deb2c/13_comptes_associes.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB7a2yxCgf/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAIBEBMx/9oACAEBAAEFAs0M0kzSp4f/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8BrKz/xAAZEAACAwEAAAAAAAAAAAAAAAAykQABAiD/2gAIAQEABj8CGlApQcrj/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAERMfEQcf/aAAgBAQABPyHDEBqD1DCcsFR//9oADAMBAAIAAwAAABC33//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCIiP/EABURAQEAAAAAAAAAAAAAAAAAAABh/9oACAECAQE/ELLP/8QAHBAAAwACAwEAAAAAAAAAAAAAAAERcfAxQVHB/9oACAEBAAE/ENc+FmWs7AkqbGBjRi8ZwYP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3875f4482ef61310ae5f2319cf2dac1b/51f7f/13_comptes_associes.jpg&quot;
+        srcset=&quot;/static/3875f4482ef61310ae5f2319cf2dac1b/663ea/13_comptes_associes.jpg 190w,
+/static/3875f4482ef61310ae5f2319cf2dac1b/fb0bd/13_comptes_associes.jpg 380w,
+/static/3875f4482ef61310ae5f2319cf2dac1b/51f7f/13_comptes_associes.jpg 760w,
+/static/3875f4482ef61310ae5f2319cf2dac1b/704f4/13_comptes_associes.jpg 1140w,
+/static/3875f4482ef61310ae5f2319cf2dac1b/0a3a3/13_comptes_associes.jpg 1520w,
+/static/3875f4482ef61310ae5f2319cf2dac1b/deb2c/13_comptes_associes.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Revoilà notre interface de tout à l&apos;heure, mais dans la langue de Molière cette fois.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/eb769f86deffb658f3231ab555cead38/deb2c/14_ajout_comptes.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQCA//EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAFXMuMug//EABkQAQEBAAMAAAAAAAAAAAAAAAECAwAQEv/aAAgBAQABBQIk9b5RMgdnP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAQABBQAAAAAAAAAAAAAAAAEAAhEgITH/2gAIAQEABj8CNQtSE5h//8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERMRAhUZH/2gAIAQEAAT8hdQ0vhurHwhU8xLduRNH/2gAMAwEAAgADAAAAEGQP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oACAEDAQE/EMiP/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oACAECAQE/EHWdv//EABsQAQEBAAIDAAAAAAAAAAAAAAERACFRMUHB/9oACAEBAAE/EGUxIkd5gSUU8iYPwtA5AuSto7bg9Df/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/eb769f86deffb658f3231ab555cead38/51f7f/14_ajout_comptes.jpg&quot;
+        srcset=&quot;/static/eb769f86deffb658f3231ab555cead38/663ea/14_ajout_comptes.jpg 190w,
+/static/eb769f86deffb658f3231ab555cead38/fb0bd/14_ajout_comptes.jpg 380w,
+/static/eb769f86deffb658f3231ab555cead38/51f7f/14_ajout_comptes.jpg 760w,
+/static/eb769f86deffb658f3231ab555cead38/704f4/14_ajout_comptes.jpg 1140w,
+/static/eb769f86deffb658f3231ab555cead38/0a3a3/14_ajout_comptes.jpg 1520w,
+/static/eb769f86deffb658f3231ab555cead38/deb2c/14_ajout_comptes.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pour associer un compte Paypal, rien de bien compliqué. Cliquer sur la première option pour être redirigé vers l&apos;interface de Paypal, connectez-vous à votre compte et accepter l&apos;association. Voilà, c&apos;est fait.&lt;/p&gt;
+&lt;p&gt;La seconde option vous permet d&apos;associer votre carte bancaire (et donc d&apos;utiliser celle-ci pour faire vos emplettes). Remplissez les champs avec vos informations personnelles et cliquer sur &quot;&lt;strong&gt;Ajouter une adresse de facturation&lt;/strong&gt;&quot;. &lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8f02614747ec8ae08e814a3f7d5ed76c/deb2c/15_coinbase_cb.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAXrzvSIlBH//xAAZEAEBAAMBAAAAAAAAAAAAAAABAgADETH/2gAIAQEAAQUCmRrfpiY4Yeqpn//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAIDAQAAAAAAAAAAAAAAAAAhAQIQMf/aAAgBAQAGPwKEKpzHOf/EABoQAQEAAgMAAAAAAAAAAAAAAAEAEVExcZH/2gAIAQEAAT8hK0YXUUSFY1PLglOR7YL/2gAMAwEAAgADAAAAEAP/AP/EABURAQEAAAAAAAAAAAAAAAAAABAh/9oACAEDAQE/EIf/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EI3tKz//xAAaEAEBAQADAQAAAAAAAAAAAAABEQAhMZFB/9oACAEBAAE/EFjwifRcHnIsvEcU482AIERomDAyII4p0eb/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8f02614747ec8ae08e814a3f7d5ed76c/51f7f/15_coinbase_cb.jpg&quot;
+        srcset=&quot;/static/8f02614747ec8ae08e814a3f7d5ed76c/663ea/15_coinbase_cb.jpg 190w,
+/static/8f02614747ec8ae08e814a3f7d5ed76c/fb0bd/15_coinbase_cb.jpg 380w,
+/static/8f02614747ec8ae08e814a3f7d5ed76c/51f7f/15_coinbase_cb.jpg 760w,
+/static/8f02614747ec8ae08e814a3f7d5ed76c/704f4/15_coinbase_cb.jpg 1140w,
+/static/8f02614747ec8ae08e814a3f7d5ed76c/0a3a3/15_coinbase_cb.jpg 1520w,
+/static/8f02614747ec8ae08e814a3f7d5ed76c/deb2c/15_coinbase_cb.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;L&apos;écran suivant vous demandera d&apos;entrer les informations relatives à votre carte bancaire. Rien de bien sorcier ici. Une fois ceci fait, vous aurez enfin la possibilité d&apos;acheter vos premières cryptos. À moins que vous ne préfèreriez réduire les frais, et passer par un virement bancaire pour déposer vos fonds.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/36356b8a22f63d886513c7c721b354cc/deb2c/16_coinbase_cb-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAEqTZcZwwP/xAAZEAACAwEAAAAAAAAAAAAAAAABAgADETL/2gAIAQEAAQUCCjb6kVcEHV6gLP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAQEAAgMAAAAAAAAAAAAAAAEAAhEQITH/2gAIAQEABj8COo1iXkRoOP/EABsQAQABBQEAAAAAAAAAAAAAAAEAESExQVGR/9oACAEBAAE/IWkjPJRoK3hyeQmDcpUL6IE//9oADAMBAAIAAwAAABBr/wD/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAIAQMBAT8QxH//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EI3tKz//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMUFhkVH/2gAIAQEAAT8QoY0Dh9jPVFBY47uFMeaMwteO4yKrug4hVo8n/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/36356b8a22f63d886513c7c721b354cc/51f7f/16_coinbase_cb-2.jpg&quot;
+        srcset=&quot;/static/36356b8a22f63d886513c7c721b354cc/663ea/16_coinbase_cb-2.jpg 190w,
+/static/36356b8a22f63d886513c7c721b354cc/fb0bd/16_coinbase_cb-2.jpg 380w,
+/static/36356b8a22f63d886513c7c721b354cc/51f7f/16_coinbase_cb-2.jpg 760w,
+/static/36356b8a22f63d886513c7c721b354cc/704f4/16_coinbase_cb-2.jpg 1140w,
+/static/36356b8a22f63d886513c7c721b354cc/0a3a3/16_coinbase_cb-2.jpg 1520w,
+/static/36356b8a22f63d886513c7c721b354cc/deb2c/16_coinbase_cb-2.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pour lier votre compte bancaire et vous ouvrir la possibilité de transférer vos fonds par virement SEPA, cliquer sur la troisième option (Compte bancaire en euro). &lt;/p&gt;
+&lt;p&gt;L&apos;écran suivant vous demandera d&apos;indiquer les informations relatives à votre compte. Si vous ne savez pas où les trouvez, &lt;strong&gt;ce sont les informations inscrites sur vos RIB&lt;/strong&gt; (en général facilement téléchargeables depuis vos espaces de gestion de comptes en ligne). Une fois les champs remplis, cliquer sur &quot;&lt;strong&gt;Vérifier votre compte&lt;/strong&gt;&quot;. &lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0bed357764262dbba82bef54f19f4172/deb2c/17_coinbase_sepa.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABjQouKjA//8QAGhABAAIDAQAAAAAAAAAAAAAAAQIDABAREv/aAAgBAQABBQIidthV5A2Z/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGBAAAgMAAAAAAAAAAAAAAAAAADERICL/2gAIAQEABj8CRiBU/8QAGxAAAwACAwAAAAAAAAAAAAAAAAERECExQZH/2gAIAQEAAT8hZWpKLpDO77IuHhMJo//aAAwDAQACAAMAAAAQ+A//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxBH/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/EKuv/8QAGxAAAwADAQEAAAAAAAAAAAAAAAERITGRQVH/2gAIAQEAAT8QVNpE8LVLpCIekEcOYj4uDSjwI8I//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/0bed357764262dbba82bef54f19f4172/51f7f/17_coinbase_sepa.jpg&quot;
+        srcset=&quot;/static/0bed357764262dbba82bef54f19f4172/663ea/17_coinbase_sepa.jpg 190w,
+/static/0bed357764262dbba82bef54f19f4172/fb0bd/17_coinbase_sepa.jpg 380w,
+/static/0bed357764262dbba82bef54f19f4172/51f7f/17_coinbase_sepa.jpg 760w,
+/static/0bed357764262dbba82bef54f19f4172/704f4/17_coinbase_sepa.jpg 1140w,
+/static/0bed357764262dbba82bef54f19f4172/0a3a3/17_coinbase_sepa.jpg 1520w,
+/static/0bed357764262dbba82bef54f19f4172/deb2c/17_coinbase_sepa.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Un message va alors s&apos;afficher à l&apos;écran, comprenant les informations bancaire de Coinbase. &lt;strong&gt;Notez les!&lt;/strong&gt; Elles vous seront utiles pour enregistrer Coinbase comme possible bénéficiaire de vos virements. &lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/581c77803c263f9fbc7bb0c2675c7a86/deb2c/18_coinbase_info.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABhpfe4VLB/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxEiMv/aAAgBAQABBQIAbdUqrgg9XHqf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGBABAQEBAQAAAAAAAAAAAAAAAQAhEDH/2gAIAQEABj8CMjC8ief/xAAdEAACAgEFAAAAAAAAAAAAAAAAARFBECFRYZGh/9oACAEBAAE/IYZDV7FvbpHE6PYOcjeP/9oADAMBAAIAAwAAABBkL//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAgBAwEBPxDIj//EABgRAAIDAAAAAAAAAAAAAAAAAAABESEx/9oACAECAQE/ELb0ln//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFRcbHx/9oACAEBAAE/EFMrE5bYxF1K02V5Z89MaevuBCgRBdYhqf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/581c77803c263f9fbc7bb0c2675c7a86/51f7f/18_coinbase_info.jpg&quot;
+        srcset=&quot;/static/581c77803c263f9fbc7bb0c2675c7a86/663ea/18_coinbase_info.jpg 190w,
+/static/581c77803c263f9fbc7bb0c2675c7a86/fb0bd/18_coinbase_info.jpg 380w,
+/static/581c77803c263f9fbc7bb0c2675c7a86/51f7f/18_coinbase_info.jpg 760w,
+/static/581c77803c263f9fbc7bb0c2675c7a86/704f4/18_coinbase_info.jpg 1140w,
+/static/581c77803c263f9fbc7bb0c2675c7a86/0a3a3/18_coinbase_info.jpg 1520w,
+/static/581c77803c263f9fbc7bb0c2675c7a86/deb2c/18_coinbase_info.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pour ce faire, rendez vous sur l&apos;interface de votre banque et ajouter Coinbase à la liste des comptes bénéficiaires (la procédure et les intitulés varient suivant les banques, donc impossible de vous expliquer cette partie pas à pas, mais vous trouverez en général cette option dans la partie Virements de votre gestion de compte). &lt;/p&gt;
+&lt;p&gt;Remplissez les informations de ce nouveau bénéficiaire avec celles inscrites à l&apos;écran (vous aurez normalement besoin de l&apos;IBAN, du nom de la banque et du destinataire ainsi que de son adresse).&lt;/p&gt;
+&lt;p&gt;Une fois le compte ajoutée, il ne reste plus qu&apos;à patienter. Il existe en effet un délai entre l&apos;ajout d&apos;un nouveau compte bénéficiaire et la possibilité d&apos;y effectuer son premier virement. Celui-ci est en général de 72h. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note importante: Coinbase Europe étant basée en Estonie, il est tout à fait possible que vous rencontriez des difficultés  avec votre banque pour ajouter ce compte. Vous devrez alors contacter votre conseiller bancaire pour qu&apos;il vous débloque la possibilité de faire des virements européens.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Une fois ces épreuves derrière vous et le compte de Coinbase enregistré comme nouveau bénéficiaire, il est temps de passer à la dernière étape: le virement de vérification.&lt;/p&gt;
+&lt;p&gt;Munissez vous du numéro de référence indiqué dans les informations bancaires de Coinbase (celles que vous avez notées) et effectuez un virement d&apos;un faible montant (1€) vers le nouveau compte bénéficiaire. Entrer le numéro de référence dans la partie &quot;&lt;strong&gt;Libellé&lt;/strong&gt;&quot; ou &quot;&lt;strong&gt;Référence&lt;/strong&gt;&quot; de votre virement. Ne reste plus qu&apos;à patienter (le délai varie selon les banques, mais comptez environ 1 à 2 jours ouvrés pour recevoir votre virement). Passé ce délai, vous devriez recevoir un email vous confirmant la bonne réception de votre dépôt. &lt;/p&gt;
+&lt;p&gt;Bravo, vous pouvez maintenant utiliser les virements SEPA pour transférer vos fonds vers Coinbase et acheter vos cryptos (&lt;strong&gt;n&apos;oubliez pas d&apos;entrer votre numéro de référence à chaque virement, sans quoi celui-ci pourrait ne jamais arriver&lt;/strong&gt;!).&lt;/p&gt;
+&lt;h2 id=&quot;sécuriser-votre-compte-grâce-à-la-double-authentification&quot;&gt;&lt;a href=&quot;#s%C3%A9curiser-votre-compte-gr%C3%A2ce-%C3%A0-la-double-authentification&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Sécuriser votre compte grâce à la double authentification&lt;/h2&gt;
+&lt;p&gt;Avant de commencer à transférer des fonds sur Coinbase, mieux vaut prendre toutes les précautions niveau sécurité. Et pour cela, rien de mieux que d&apos;activer la &lt;strong&gt;double authentification&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Cliquer sur l&apos;onglet &quot;&lt;strong&gt;Paramètres&lt;/strong&gt;&quot;, puis sur le sous-onglet &quot;&lt;strong&gt;Sécurité&lt;/strong&gt;&quot;. Au milieu de la page se trouve le bouton d&apos;activation de la double authentification. &lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ec966f2a8d236bd8468169a0c2be6dab/20b5f/25_authentificator.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 64.95452113429641%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB2pcsQsD/xAAYEAADAQEAAAAAAAAAAAAAAAAAAhMSIP/aAAgBAQABBQLCk0Jpx//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwGsrP/EABkQAAIDAQAAAAAAAAAAAAAAADKRAAECIP/aAAgBAQAGPwIMqBSgZXH/xAAZEAEBAAMBAAAAAAAAAAAAAAABABARITH/2gAIAQEAAT8heeoK8wgMuhY8v//aAAwDAQACAAMAAAAQP9//xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8QiIj/xAAVEQEBAAAAAAAAAAAAAAAAAAAAYf/aAAgBAgEBPxCiz//EAB0QAAMAAQUBAAAAAAAAAAAAAAABEdEhMUFRYfH/2gAIAQEAAT8QuSG61MCSovwfEYNyFKFxRqj7R//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ec966f2a8d236bd8468169a0c2be6dab/51f7f/25_authentificator.jpg&quot;
+        srcset=&quot;/static/ec966f2a8d236bd8468169a0c2be6dab/663ea/25_authentificator.jpg 190w,
+/static/ec966f2a8d236bd8468169a0c2be6dab/fb0bd/25_authentificator.jpg 380w,
+/static/ec966f2a8d236bd8468169a0c2be6dab/51f7f/25_authentificator.jpg 760w,
+/static/ec966f2a8d236bd8468169a0c2be6dab/704f4/25_authentificator.jpg 1140w,
+/static/ec966f2a8d236bd8468169a0c2be6dab/0a3a3/25_authentificator.jpg 1520w,
+/static/ec966f2a8d236bd8468169a0c2be6dab/20b5f/25_authentificator.jpg 1869w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Après un premier écran vous demandant de vérifier le code que vous venez de recevoir par sms, vous arrivez sur l&apos;écran d&apos;activation d&apos;Authenticator. Ouvrez votre application dédiée (si vous n&apos;en disposez pas, je vous conseille &lt;a href=&quot;https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&amp;#x26;hl=en&quot;&gt;Google Authenticator&lt;/a&gt;, disponible sur Android et iOS) et scannez le QR code présent à l&apos;écran. &lt;/p&gt;
+&lt;p&gt;Ne reste plus qu&apos;à valider en saisissant le code de vérification à six chiffres associé à Coinbase. Voilà, votre compte comporte maintenant un niveau de sécurité supplémentaire. &lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6bbbf4762fe25bc877cf49cdab03fdc8/20b5f/26_authentification_screen.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 64.95452113429641%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAEca1UxyuH/xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIDExL/2gAIAQEAAQUCSXrfOVKSOMFZyzjB/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/Aar/xAAYEAADAQEAAAAAAAAAAAAAAAAAATEhUf/aAAgBAQAGPwJYiK8IQ3SH/8QAHBABAAIDAAMAAAAAAAAAAAAAAQARMUGRIWGB/9oACAEBAAE/Ife41AdefUEpYclaIuwRQ/UK8uz/2gAMAwEAAgADAAAAECcP/8QAFREBAQAAAAAAAAAAAAAAAAAAEDH/2gAIAQMBAT8Qgf/EABYRAAMAAAAAAAAAAAAAAAAAAAEQIf/aAAgBAgEBPxCiv//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExUUH/2gAIAQEAAT8QeFg3CN2NAlPgFcwhV6+JUgTRHKqUXrlQhXvc/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6bbbf4762fe25bc877cf49cdab03fdc8/51f7f/26_authentification_screen.jpg&quot;
+        srcset=&quot;/static/6bbbf4762fe25bc877cf49cdab03fdc8/663ea/26_authentification_screen.jpg 190w,
+/static/6bbbf4762fe25bc877cf49cdab03fdc8/fb0bd/26_authentification_screen.jpg 380w,
+/static/6bbbf4762fe25bc877cf49cdab03fdc8/51f7f/26_authentification_screen.jpg 760w,
+/static/6bbbf4762fe25bc877cf49cdab03fdc8/704f4/26_authentification_screen.jpg 1140w,
+/static/6bbbf4762fe25bc877cf49cdab03fdc8/0a3a3/26_authentification_screen.jpg 1520w,
+/static/6bbbf4762fe25bc877cf49cdab03fdc8/20b5f/26_authentification_screen.jpg 1869w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;comment-placer-des-ordres-&quot;&gt;&lt;a href=&quot;#comment-placer-des-ordres-&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Comment placer des ordres ?&lt;/h2&gt;
+&lt;h3 id=&quot;achat&quot;&gt;&lt;a href=&quot;#achat&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Achat&lt;/h3&gt;
+&lt;p&gt;Pour acheter vos premières cryptomonnaies, rendez-vous dans l&apos;onglet &quot;&lt;strong&gt;Achat/vente&lt;/strong&gt;&quot;. &lt;/p&gt;
+&lt;p&gt;Choisissez la crypto de votre choix dans le menu déroulant, votre méthode paiement et le montant désiré (attention, vous serez limité par un plafond hebdomadaire de 50€ dans un premier temps, cette limite augmentera sensiblement une fois 100€ dépensés sur la plateforme).&lt;/p&gt;
+&lt;p&gt;Ne reste plus qu&apos;à cliquer sur le bouton &quot;&lt;strong&gt;Acheter des ...&lt;/strong&gt;&quot;. Patientez quelques instants et profitez de votre achat. Vous voilà maintenant possesseur de cryptomonnaies.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d196f5eb49160445587eb698d958ab96/deb2c/19_coinbase_buy.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB2R0WUGB//8QAGxAAAQQDAAAAAAAAAAAAAAAAAQACAxASE0H/2gAIAQEAAQUCLYwsIyNbK4v/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Bq6//xAAcEAABAwUAAAAAAAAAAAAAAAACAAEyESAhcZH/2gAIAQEABj8CywqI00oDyz//xAAcEAACAQUBAAAAAAAAAAAAAAAAAREhMUFhcfH/2gAIAQEAAT8hjYfUjNTaHgCB0YVj/9oADAMBAAIAAwAAABA73//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCIiP/EABcRAAMBAAAAAAAAAAAAAAAAAAARMWH/2gAIAQIBAT8QZU2P/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARMSFxQWHw/9oACAEBAAE/EEqa5SuVVCPCDAyj4vUQ6D3MjihyYdT/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/d196f5eb49160445587eb698d958ab96/51f7f/19_coinbase_buy.jpg&quot;
+        srcset=&quot;/static/d196f5eb49160445587eb698d958ab96/663ea/19_coinbase_buy.jpg 190w,
+/static/d196f5eb49160445587eb698d958ab96/fb0bd/19_coinbase_buy.jpg 380w,
+/static/d196f5eb49160445587eb698d958ab96/51f7f/19_coinbase_buy.jpg 760w,
+/static/d196f5eb49160445587eb698d958ab96/704f4/19_coinbase_buy.jpg 1140w,
+/static/d196f5eb49160445587eb698d958ab96/0a3a3/19_coinbase_buy.jpg 1520w,
+/static/d196f5eb49160445587eb698d958ab96/deb2c/19_coinbase_buy.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;vente&quot;&gt;&lt;a href=&quot;#vente&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Vente&lt;/h3&gt;
+&lt;p&gt;Pour vendre, le principe est le même. Cliquez sur l&apos;onglet &quot;&lt;strong&gt;Vente&lt;/strong&gt;&quot;, choisissez la cryptomonnaie dont vous voulez vous séparer et le montant (en crypto) désiré, puis cliquez &quot;&lt;strong&gt;Vendre des ...&lt;/strong&gt;&quot;. &lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0394c3503a1661658f1ad9d82c3528f5/deb2c/20_coinbase_sell.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB7SsrMFA//8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECExAx/9oACAEBAAEFAnEGcMzjj8P/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Bq6//xAAZEAACAwEAAAAAAAAAAAAAAAAykQABAiD/2gAIAQEABj8CGlBpQMrj/8QAGRAAAwADAAAAAAAAAAAAAAAAAAExEBHx/9oACAEBAAE/IUabSumOAxQUP//aAAwDAQACAAMAAAAQX9//xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8QiIj/xAAXEQEAAwAAAAAAAAAAAAAAAAAAEVFh/9oACAECAQE/EJW2f//EAB4QAQACAgEFAAAAAAAAAAAAAAEAESExYVFxodHw/9oACAEBAAE/EKGiPH1Me71Zz4gJR8HEYkQ6M0dp/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/0394c3503a1661658f1ad9d82c3528f5/51f7f/20_coinbase_sell.jpg&quot;
+        srcset=&quot;/static/0394c3503a1661658f1ad9d82c3528f5/663ea/20_coinbase_sell.jpg 190w,
+/static/0394c3503a1661658f1ad9d82c3528f5/fb0bd/20_coinbase_sell.jpg 380w,
+/static/0394c3503a1661658f1ad9d82c3528f5/51f7f/20_coinbase_sell.jpg 760w,
+/static/0394c3503a1661658f1ad9d82c3528f5/704f4/20_coinbase_sell.jpg 1140w,
+/static/0394c3503a1661658f1ad9d82c3528f5/0a3a3/20_coinbase_sell.jpg 1520w,
+/static/0394c3503a1661658f1ad9d82c3528f5/deb2c/20_coinbase_sell.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;vérifier-votre-solde&quot;&gt;&lt;a href=&quot;#v%C3%A9rifier-votre-solde&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Vérifier votre solde&lt;/h2&gt;
+&lt;p&gt;Vérifier l&apos;état de votre solde sur Coinbase est assez simple. Pour cela, deux options s&apos;offrent à vous:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;depuis l&apos;écran d&apos;acceuil&lt;/li&gt;
+&lt;li&gt;depuis l&apos;onglet &quot;Comptes&quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sur l&apos;écran d&apos;acceuil de Coinbase, en bas à gauche, vous trouverez un bloc &quot;&lt;strong&gt;Votre portefeuille&lt;/strong&gt;&quot;, celui-ci contient un récapitulatif de vos fonds. Pratique, mais assez limité.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f03c8ffe9137fbe2aacf40804cb73c2d/20b5f/21_solde.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 80.09630818619583%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHbWqWBQP/EABoQAAMBAAMAAAAAAAAAAAAAAAABAhMDMUH/2gAIAQEAAQUCzgccZnB7STF1/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/Aays/8QAGxAAAQUBAQAAAAAAAAAAAAAAAgABEBGRMiH/2gAIAQEABj8C5bF6I4uByKJraP/EABsQAAICAwEAAAAAAAAAAAAAAAABESExUfFh/9oACAEBAAE/IeGIUWvBwA9hXZBEkSwj/9oADAMBAAIAAwAAABAEH//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxBCwv/EABcRAQADAAAAAAAAAAAAAAAAAAARQWH/2gAIAQIBAT8Qkts//8QAGhABAAMBAQEAAAAAAAAAAAAAAQARIUExcf/aAAgBAQABPxBs5wdjRohcKSqIAQ8ebK3LoqYFbbyAjQAfJ//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f03c8ffe9137fbe2aacf40804cb73c2d/51f7f/21_solde.jpg&quot;
+        srcset=&quot;/static/f03c8ffe9137fbe2aacf40804cb73c2d/663ea/21_solde.jpg 190w,
+/static/f03c8ffe9137fbe2aacf40804cb73c2d/fb0bd/21_solde.jpg 380w,
+/static/f03c8ffe9137fbe2aacf40804cb73c2d/51f7f/21_solde.jpg 760w,
+/static/f03c8ffe9137fbe2aacf40804cb73c2d/704f4/21_solde.jpg 1140w,
+/static/f03c8ffe9137fbe2aacf40804cb73c2d/0a3a3/21_solde.jpg 1520w,
+/static/f03c8ffe9137fbe2aacf40804cb73c2d/20b5f/21_solde.jpg 1869w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pour une visualisation plus complète, rendez-vous sur l&apos;onglet &quot;&lt;strong&gt;Comptes&lt;/strong&gt;&quot;. Dans la partie gauche, vous trouverez un menu déroulant affichant l&apos;ensemble des cryptomonnaies stockables sur Coinbase. &lt;/p&gt;
+&lt;p&gt;Sous chacune d&apos;entre elles, vous pourrez voir le montant en votre possession, ainsi que son équivalent en euros après conversion au cours actuel. &lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/44e11c6d044f15f53a9a6d9e8526c6f1/deb2c/22_solde.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB7S3yxCgf/8QAHBAAAQMFAAAAAAAAAAAAAAAAAAECEgMQERMx/9oACAEBAAEFAoMIU862WXh//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/Aauv/8QAGhAAAQUBAAAAAAAAAAAAAAAAAAECEjKRIP/aAAgBAQAGPwKqYRi0o3OP/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERMbHx/9oACAEBAAE/IXZcw20rMh4AZoLD/9oADAMBAAIAAwAAABBX3//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCIiP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEUFh/9oACAECAQE/EJWzY//EAB4QAAEEAQUAAAAAAAAAAAAAAAEAESExEEFxkeHw/9oACAEBAAE/EBgRnToTgInQuUAjwcYQILYqjZf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/44e11c6d044f15f53a9a6d9e8526c6f1/51f7f/22_solde.jpg&quot;
+        srcset=&quot;/static/44e11c6d044f15f53a9a6d9e8526c6f1/663ea/22_solde.jpg 190w,
+/static/44e11c6d044f15f53a9a6d9e8526c6f1/fb0bd/22_solde.jpg 380w,
+/static/44e11c6d044f15f53a9a6d9e8526c6f1/51f7f/22_solde.jpg 760w,
+/static/44e11c6d044f15f53a9a6d9e8526c6f1/704f4/22_solde.jpg 1140w,
+/static/44e11c6d044f15f53a9a6d9e8526c6f1/0a3a3/22_solde.jpg 1520w,
+/static/44e11c6d044f15f53a9a6d9e8526c6f1/deb2c/22_solde.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;comment-déposer-et-retirer-des-fonds-de-coinbase-&quot;&gt;&lt;a href=&quot;#comment-d%C3%A9poser-et-retirer-des-fonds-de-coinbase-&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Comment déposer et retirer des fonds de Coinbase ?&lt;/h2&gt;
+&lt;h3 id=&quot;dépôts&quot;&gt;&lt;a href=&quot;#d%C3%A9p%C3%B4ts&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Dépôts&lt;/h3&gt;
+&lt;p&gt;Pour envoyez des cryptos sur Coinbase, rendez vous sur l&apos;onglet &quot;&lt;strong&gt;Comptes&lt;/strong&gt;&quot; (le même que précédemment). Dans le menu déroulant (à gauche), cliquer le le bouton &quot;&lt;strong&gt;Réception&lt;/strong&gt;&quot; correspondant à la crypto que vous souhaitez transférer. &lt;/p&gt;
+&lt;p&gt;Une popup s&apos;affiche alors sur votre écran, vous indiquant que l&apos;envoi de tout autre cryptomonnaie, autre que celle choisie, vers ce portefeuille entraînera la disparition de vos fonds (il est toujours utile de le rappeler, &lt;strong&gt;un portefeuille Bitcoin ne peut contenir QUE des Bitcoins&lt;/strong&gt;, n&apos;essayez pas d&apos;y envoyer autre chose, le transfert échouerait et vous perdriez vos fonds sans espoir de les récupérer). &lt;/p&gt;
+&lt;p&gt;Une fois cet avertissement passé, vous tomberez sur un écran affichant votre adresse de réception:&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7be8eaffac7324b610e482045accf9d2/deb2c/23_send.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABjSkuKjA//8QAGRABAAIDAAAAAAAAAAAAAAAAAQIDABAS/9oACAEBAAEFAiJ1bVEiBsz/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAAAASAhMTL/2gAIAQEABj8CVHK0yH//xAAbEAACAwADAAAAAAAAAAAAAAAAAREhMUFRkf/aAAgBAQABPyF1DSG+irJxTmiFjwhHAlH/2gAMAwEAAgADAAAAEKQP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oACAEDAQE/EMR//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAgBAgEBPxCvSs//xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUGRYf/aAAgBAQABPxCgTA44uWdVY5FMu4HHmnwPIhbCB0J//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/7be8eaffac7324b610e482045accf9d2/51f7f/23_send.jpg&quot;
+        srcset=&quot;/static/7be8eaffac7324b610e482045accf9d2/663ea/23_send.jpg 190w,
+/static/7be8eaffac7324b610e482045accf9d2/fb0bd/23_send.jpg 380w,
+/static/7be8eaffac7324b610e482045accf9d2/51f7f/23_send.jpg 760w,
+/static/7be8eaffac7324b610e482045accf9d2/704f4/23_send.jpg 1140w,
+/static/7be8eaffac7324b610e482045accf9d2/0a3a3/23_send.jpg 1520w,
+/static/7be8eaffac7324b610e482045accf9d2/deb2c/23_send.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Copier l&apos;adresse de votre portefeuille (la suite de lettres et de chiffres en bas) et rendez vous sur le wallet externe dont vous voulez extraire les fonds. Entrer l&apos;adresse copiée plus haut comme adresse de destination (en vérifiant attentivement de ne pas avoir fait d&apos;erreurs, pour cela &lt;strong&gt;une bonne astuce est de vérifier les 4 ou 5 premiers caractères, ainsi que les 4 ou 5 derniers&lt;/strong&gt;). &lt;/p&gt;
+&lt;p&gt;Cliquer sur envoyez et patientez le temps que votre transaction soit vérifiée (de quelques secondes pour les cryptos les plus rapides à plusieurs heures pour les plus lentes).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note importante: Certaines cryptomonnaies, comme le XRP (Ripple) ou le XLM (Stellar) vous demanderont une information supplémentaire pour pouvoir effectuer le transfert. Le &quot;&lt;strong&gt;Tag&lt;/strong&gt;&quot; dans le cas du XRP et le &quot;&lt;strong&gt;Memo&lt;/strong&gt;&quot; dans le cas du XLM. Ceux-ci vous sont indiqués sous votre adresse de destination, n&apos;oubliez pas de les copier également, faute de quoi votre transaction finira perdue dans les lymbes&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/591fb4846ffe926e0a4e393acdd8db5f/deb2c/24_sendXRP.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABjUguKjA//8QAGRABAAIDAAAAAAAAAAAAAAAAAQIDABAS/9oACAEBAAEFAgOrqokQNmf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAAAASAhMTL/2gAIAQEABj8CVHK0yH//xAAbEAADAAIDAAAAAAAAAAAAAAAAAREhMUFRkf/aAAgBAQABPyF9DSXo1PuEXBFp4Qre2Jg//9oADAMBAAIAAwAAABDkD//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAgBAwEBPxDIj//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQIBAT8QV3trf//EABsQAQEBAQEAAwAAAAAAAAAAAAERACFBMVGR/9oACAEBAAE/EFE0RI+8OStF80ct9wePzaDsLkCIw5XB4N//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/591fb4846ffe926e0a4e393acdd8db5f/51f7f/24_sendXRP.jpg&quot;
+        srcset=&quot;/static/591fb4846ffe926e0a4e393acdd8db5f/663ea/24_sendXRP.jpg 190w,
+/static/591fb4846ffe926e0a4e393acdd8db5f/fb0bd/24_sendXRP.jpg 380w,
+/static/591fb4846ffe926e0a4e393acdd8db5f/51f7f/24_sendXRP.jpg 760w,
+/static/591fb4846ffe926e0a4e393acdd8db5f/704f4/24_sendXRP.jpg 1140w,
+/static/591fb4846ffe926e0a4e393acdd8db5f/0a3a3/24_sendXRP.jpg 1520w,
+/static/591fb4846ffe926e0a4e393acdd8db5f/deb2c/24_sendXRP.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;transfert&quot;&gt;&lt;a href=&quot;#transfert&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Transfert&lt;/h3&gt;
+&lt;p&gt;Pour sortir vos cryptos de Coinbase et les transférer sur un wallet externe, le processus est simple. Depuis l&apos;onglet &quot;&lt;strong&gt;Comptes&lt;/strong&gt;&quot; (toujours le même), cherchez la crypto que vous souhaitez transférer dans le menu déroulant, et cliquez sur le bouton &quot;&lt;strong&gt;Envoyer&lt;/strong&gt;&quot; correspondant.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5d2b1b14dc29b1ee59889360694acdf5/deb2c/27_sendTo.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB7SsrMFA//8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAExASMf/aAAgBAQABBQLRJWhFaYPJ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/Aays/8QAGRAAAgMBAAAAAAAAAAAAAAAAMpEAAQIg/9oACAEBAAY/AhyoFKBlcf/EABsQAAICAwEAAAAAAAAAAAAAAAABETEQkcHx/9oACAEBAAE/IXNyDgHpHgMWCo//2gAMAwEAAgADAAAAEJTf/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EIiI/8QAFREBAQAAAAAAAAAAAAAAAAAAAGH/2gAIAQIBAT8Qss//xAAcEAEAAQQDAAAAAAAAAAAAAAABACExcfARQfH/2gAIAQEAAT8Q4QpOlovBEr5QEDSxGJEHpljE/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/5d2b1b14dc29b1ee59889360694acdf5/51f7f/27_sendTo.jpg&quot;
+        srcset=&quot;/static/5d2b1b14dc29b1ee59889360694acdf5/663ea/27_sendTo.jpg 190w,
+/static/5d2b1b14dc29b1ee59889360694acdf5/fb0bd/27_sendTo.jpg 380w,
+/static/5d2b1b14dc29b1ee59889360694acdf5/51f7f/27_sendTo.jpg 760w,
+/static/5d2b1b14dc29b1ee59889360694acdf5/704f4/27_sendTo.jpg 1140w,
+/static/5d2b1b14dc29b1ee59889360694acdf5/0a3a3/27_sendTo.jpg 1520w,
+/static/5d2b1b14dc29b1ee59889360694acdf5/deb2c/27_sendTo.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Saisissez l&apos;adresse de destination dans le champ correspondant, en prenant bien soin de vérifier que tout soit en ordre, le montant que vous souhaitez transférer (soit directement en crytos, soit en équivalent euros) puis cliquez sur &quot;&lt;strong&gt;Continuer&lt;/strong&gt;&quot; (&lt;strong&gt;attention, dans le cas du XRP ou du XLM, pensez bien à également inclure le tag/memo en plus de l&apos;adresse de destination&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;L&apos;écran suivant vous affichera un récapitulatif de la transaction, incluant le montant des frais de minage que vous aurez à payer pour le transfert. Vérifiez une dernière fois qu&apos;aucune erreur ne s&apos;est glissée dans votre demande et cliquer sur &quot;&lt;strong&gt;Confirmer&lt;/strong&gt;&quot;. &lt;/p&gt;
+&lt;p&gt;Ne reste plus qu&apos;à patienter le temps que votre transaction soit enregistrée sur la blockchain correspondante avant de recevoir vos cryptos.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8dcf96661037efd5560a659958af0ac8/deb2c/28_sendToAddress.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAW7JS4goP//EABoQAQACAwEAAAAAAAAAAAAAAAECEgAEEDH/2gAIAQEAAQUCAtswjQDk/DP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAASAhIjGR/9oACAEBAAY/AlQsVw1D/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAERITFBkf/aAAgBAQABPyHNtXBOBNiFjwWoZuzkSj//2gAMAwEAAgADAAAAEDQP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFB/9oACAEDAQE/EMR//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxDVy//EABsQAQACAgMAAAAAAAAAAAAAAAEAESFBUXGR/9oACAEBAAE/EHguNxTmZlyrQNdQOHmhBgBEhsajtuBoT//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8dcf96661037efd5560a659958af0ac8/51f7f/28_sendToAddress.jpg&quot;
+        srcset=&quot;/static/8dcf96661037efd5560a659958af0ac8/663ea/28_sendToAddress.jpg 190w,
+/static/8dcf96661037efd5560a659958af0ac8/fb0bd/28_sendToAddress.jpg 380w,
+/static/8dcf96661037efd5560a659958af0ac8/51f7f/28_sendToAddress.jpg 760w,
+/static/8dcf96661037efd5560a659958af0ac8/704f4/28_sendToAddress.jpg 1140w,
+/static/8dcf96661037efd5560a659958af0ac8/0a3a3/28_sendToAddress.jpg 1520w,
+/static/8dcf96661037efd5560a659958af0ac8/deb2c/28_sendToAddress.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Une seconde option est également disponible lorsque vous souhaitez transférer des cryptos depuis Coinbase, l&apos;envoi par adresse e-mail. Celle-ci n&apos;est utile que dans un cas précis: si vous voulez envoyez vos crypto-actifs (ou une partie) vers un autre compte Coinbase. Un cas de figure assez rare donc, mais parfois pratique, si vous voulez envoyez une donation à un proche &lt;strong&gt;qui possède son propre compte Coinbase&lt;/strong&gt; par exemple. &lt;/p&gt;
+&lt;p&gt;Pour ce faire, cliquer sur le sous-onglet &quot;&lt;strong&gt;Adresse e-mail&lt;/strong&gt;&quot;, entrer l&apos;email de votre destinataire (l&apos;adresse liée à son compte Coinbase, pensez donc à bien vérifier avec lui/elle l&apos;adresse en question), choisissez le montant de cryptos à transférer et cliquez sur &quot;&lt;strong&gt;Continuer&lt;/strong&gt;&quot;, puis sur &quot;&lt;strong&gt;Confirmer&lt;/strong&gt;&quot;.&lt;/p&gt;
+&lt;p&gt;Dans les faits, cette utilisation est assez anecdotique et il est peu probable que vous ayez à vous en servir un jour, mais sait-on jamais.&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8163f9746a6c4f9c2d286a0bfe16e8da/deb2c/29_sendToMail.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 760px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.84835630965006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABVsruMHQP/8QAGhABAAEFAAAAAAAAAAAAAAAAAQIAAwQQEv/aAAgBAQABBQIDrItwIgbK/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECESAhMf/aAAgBAQAGPwJaFUUcw//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExEEFRkf/aAAgBAQABPyF4U35Ke9vRKWnzhVMsGJ//2gAMAwEAAgADAAAAEKQP/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QR//EABcRAQADAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8Q1cv/xAAaEAEAAwADAAAAAAAAAAAAAAABABEhQXGR/9oACAEBAAE/EHM4kRG7L6Glo0qBx5pQaBcYWPbA4E//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Coinbase Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8163f9746a6c4f9c2d286a0bfe16e8da/51f7f/29_sendToMail.jpg&quot;
+        srcset=&quot;/static/8163f9746a6c4f9c2d286a0bfe16e8da/663ea/29_sendToMail.jpg 190w,
+/static/8163f9746a6c4f9c2d286a0bfe16e8da/fb0bd/29_sendToMail.jpg 380w,
+/static/8163f9746a6c4f9c2d286a0bfe16e8da/51f7f/29_sendToMail.jpg 760w,
+/static/8163f9746a6c4f9c2d286a0bfe16e8da/704f4/29_sendToMail.jpg 1140w,
+/static/8163f9746a6c4f9c2d286a0bfe16e8da/0a3a3/29_sendToMail.jpg 1520w,
+/static/8163f9746a6c4f9c2d286a0bfe16e8da/deb2c/29_sendToMail.jpg 1886w&quot;
+        sizes=&quot;(max-width: 760px) 100vw, 760px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;&lt;a href=&quot;#conclusion&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Ce guide touche à sa fin. Vous savez maintenant &lt;strong&gt;comment créer un compte Coinbase&lt;/strong&gt; et comment utilisez les principales fonctions du service. J&apos;ai volontairement laissé de côté un aspect: la &lt;strong&gt;création de coffre-forts&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Les coffres-forts sont des sortes de &lt;em&gt;super-wallets&lt;/em&gt; intégrés à Coinbase, conçus pour stocker des montants élevés de cryptos. A la différence des wallets classiques, ils offrent quelques fonctionnalités intéressantes, parmi lesquelles une possibilité de co-gestion (l&apos;ensemble des co-gérants du coffre-fort devant approuver un retrait pour qu&apos;il soit pris en compte) ou la mise en place de retrait différé. &lt;/p&gt;
+&lt;p&gt;Malgré tout, si vous devez stocker des montants importants, &lt;strong&gt;je ne pourrais que vous conseiller de plutôt vous tourner vers des solutions qui vous donnent un réel contrôle sur vos clés privées&lt;/strong&gt;. Un paper wallet, un &lt;a href=&quot;https://www.ledger.com/?r=6ce75229a486&quot;&gt;Ledger&lt;/a&gt; ou un software wallet comme &lt;a href=&quot;https://www.exodus.io&quot;&gt;Exodus&lt;/a&gt; ou &lt;a href=&quot;https://electrum.org/#home&quot;&gt;Electrum&lt;/a&gt; par exemple. Coinbase est une énorme société, mais personne n&apos;est à l&apos;abri d&apos;un hack majeur, surtout pas dans le monde des cryptos. Leur confier la gestion et la sécurisation de votre fortune n&apos;est probablement pas le meilleur choix.&lt;/p&gt;
+&lt;p&gt;Un conseil qui vaut d&apos;ailleurs quel que soient les montants que vous possédez. À moins que vous ne soyez adepte du day-trading (auquel cas, vous n&apos;utiliserez probablement pas Coinbase pour cela), &lt;strong&gt;ne laissez pas vos cryptos sur le service. Une fois vos achats effectués, transférez les sur des wallets externes&lt;/strong&gt;. Prudence est mère de raison, ne l&apos;oubliez pas.&lt;/p&gt;
+&lt;p&gt;Si vous avez apprécié ce guide et que vous souhaitez voir ce type de contenu plus régulièrement sur le site, n&apos;hésitez pas à le mentionner en commentaire. Idem si vous avez des questions qui restent sans réponses, je me ferai un plaisir de tenter d&apos;y répondre.&lt;/p&gt;</content:encoded><author>hello@cryptisla.com</author></item><item><title><![CDATA[Les sites indispensables pour trader les cryptos]]></title><link>https://cryptisla.com//sites-indispensables-cryptos</link><guid isPermaLink="false">https://cryptisla.com//sites-indispensables-cryptos</guid><category><![CDATA[Guide]]></category><pubDate>Sun, 14 Apr 2019 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Vous êtes décidé à vous lancer dans les cryptos et à sortir la carte bleue pour acheter vos premiers tokens. Bravo et bienvenue dans la crypto-sphère. Un nouveau monde s&apos;ouvre à vous. Mais il faut bien l&apos;avouer, ce monde là peut être assez complexe et il est parfois difficile d&apos;y naviguer. &lt;/p&gt;
 &lt;p&gt;Pour vous aider, voici une petite sélection des sites les plus utiles pour vous accompagner dans votre aventure.&lt;/p&gt;
 &lt;h2 id=&quot;graphiques-et-analyses-techniques&quot;&gt;&lt;a href=&quot;#graphiques-et-analyses-techniques&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Graphiques et analyses techniques&lt;/h2&gt;
 &lt;ul&gt;
