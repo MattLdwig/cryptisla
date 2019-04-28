@@ -1,6 +1,6 @@
 ---
 title: "5 erreurs de débutant à éviter en commencant le trading"
-cover: "/img/posts_cover/bug.jpg"
+cover: "/img/posts_cover/test.jpg"
 category: "trading"
 date: "2019/03/20"
 slug: "erreurs-debutant-trading"
@@ -70,7 +70,9 @@ Le Stop Loss est votre ami. Un ami que vous détesterez parfois. Surtout dans la
 
 Aucun trader n'a juste 100% du temps. De nombreux traders profitables ne gagnent que 70%, 50% ou même 30% de leurs trades. L'important n'est pas d'avoir juste, c'est que le total de vos gains dépassent le total de vos pertes. 
 
-Et pour ça, rien de mieux qu'un Stop Loss qui fera le désagréable travail de vous sortir de position par la force dans les moments difficiles. 
+Et pour ça, rien de mieux qu'un Stop Loss qui fera le désagréable travail de vous sortir de position par la force dans les moments difficiles.
+
+**Important: Ne placez pas votre stop directement dans l'order book.** Une fois votre perte maximale acceptée et son prix correspondant définie, placez une alerte sur ce niveau (ou un peu au dessus) sur votre plateforme de trading (ou sur TradingView par exemple). Lorsque l'alerte se déclenchera, évaluez la situation et sortez manuellement si le marché vous l'impose. **En procédant ainsi, vous éviterez de vous faire sortir par une mèche excessive, qui n'a pour objectif que de chasser les stops présents dans l'order book.**
 
 ## **Laisser courir ses pertes**
 

@@ -1,6 +1,6 @@
 ---
 title: "Les sites indispensables pour trader les cryptos"
-cover: "/img/posts_cover/blue_gradient.jpg"
+cover: "/img/posts_cover/test.jpg"
 category: "guides"
 date: "2019/04/15"
 slug: "sites-indispensables-cryptos"

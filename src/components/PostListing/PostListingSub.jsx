@@ -1,6 +1,8 @@
 import React from "react";
 import { Link } from "gatsby";
 import Newsletter from '../Newsletter/Newsletter';
+import TradingView from '../TradingView/TradingView';
+
 import './PostListing.css';
 
 class PostListingSub extends React.Component {
@@ -24,39 +26,44 @@ class PostListingSub extends React.Component {
     const postList = this.getPostList();
     return (
       <section className="post-listing__sub">
-        <h2 className="post-listing__sub_title">DERNIERS ARTICLES</h2>
+        <h2 className="post-listing__sub_title"><span className="block-heading">DERNIERS ARTICLES</span></h2>
         <div className="post-listing__container_sub">
             {/* Your post list here. */
             postList.map(post => {
-            if (post === postList[1] || post === postList[2] || post === postList[3]) {
+            if (post === postList[3] || post === postList[4]) {
             return (
                 <div className="post-card" key={post.title}> 
                     <Link to={post.path} key={`${post.title}_sub`}>
-                        <img src={post.cover} className={'post-cover'} />
-                        <h2 className="post-card__title">{post.title}</h2>
+                        <img src={post.cover} className={'post-cover'} alt={post.title}/>
                         <p className="post-card__date-sub">{post.displayDate}</p>
+                        <h2 className="post-card__title">{post.title}</h2>
+                        <p className="post-card__excerpt">{post.excerpt}</p>
                     </Link>
                 </div>
                 )   
           }
         })}
         </div>
-        <Newsletter />
-        <div className="post-listing__container_sub">
+        <div className="post-listing__container_col">
             {/* Your post list here. */
             postList.map(post => {
             if (post !== postList[0] && post !== postList[1] && post !== postList[2] && post !== postList[3]) {
             return (
-                <div className="post-card" key={post.title}> 
-                    <Link to={post.path} key={`${post.title}_sub`}>
-                        <img src={post.cover} className={'post-cover'} />
-                        <h2 className="post-card__title">{post.title}</h2>
-                        <p className="post-card__date-sub">{post.displayDate}</p>
+                <div className="post-card_col" key={post.title}> 
+                    <Link to={post.path} key={`${post.title}_sub`} className="post-card_col-link">
+                        <img src={post.cover} className={'post-cover_col'} alt={post.title} />
+                        <div className="post-card__info-col">
+                          <p className="post-card__date-sub">{post.displayDate}</p>
+                          <h2 className="post-card__title">{post.title}</h2>
+                          <p className="post-card__excerpt">{post.excerpt}</p>
+                        </div>
                     </Link>
                 </div>
                 )   
           }
         })}
+        <Newsletter />
+        <TradingView />
         </div>
       </section>
     );

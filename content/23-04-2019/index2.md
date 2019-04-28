@@ -1,6 +1,6 @@
 ---
 title: "Tuto Coinbase, le guide complet pour débutants."
-cover: "/img/posts_cover/coinbase_cover.jpg"
+cover: "/img/posts_cover/test.jpg"
 category: "guides"
 date: "2019/04/23"
 slug: "tuto-coinbase"
