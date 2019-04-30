@@ -33,9 +33,12 @@ export default class PostTemplate extends React.Component {
           <SEO postPath={slug} postNode={postNode} postSEO />
           <Header config={config}/>
           <div className="post-container">
+           
+            <div className="post_hero-container">
+              <img className="post-container__hero" src={post.cover} alt={post.title}/>
+            </div>
             <h1 className="post-container__title">{post.title}</h1>
-            <img className="post-container__hero" src={post.cover} alt={post.title}/>
-            <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
+            <div className="post-content" dangerouslySetInnerHTML={{ __html: postNode.html }} />
             <div className="post-meta">
               <SocialLinks postPath={slug} postNode={postNode} />
             </div>

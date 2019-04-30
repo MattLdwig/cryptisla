@@ -26,10 +26,6 @@ module.exports = {
       {
         name: 'blockchain',
         link: '/blockchain'
-      },
-      {
-        name: 'newsletter',
-        link: '/newsletter'
       }
     ],
     rssMetadata: {

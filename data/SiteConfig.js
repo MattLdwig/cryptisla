@@ -23,12 +23,6 @@ const config = {
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
-      label: "Insta",
-      url: "https://instagram.com/cryptisla",
-      iconClassName: "fa fa-instagram",
-      icon: "/icons/instagram.svg"
-    },
-    {
       label: "Twitter",
       url: "https://twitter.com/cryptisla",
       iconClassName: "fa fa-twitter",

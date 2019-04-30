@@ -30,7 +30,7 @@ class PostListing extends React.Component {
             return (
             <Link to={post.path} key={`${post.title}_post`} className="post-card__link__hero">
               <div className="post-card__hero" style={style} key={post.title}>
-              <div class="post-card__overlay">
+              <div className="post-card__overlay">
                 <p className="post-card__complementary">
                   <span className="post-card__tag">{post.tags}</span>
                 </p> 
@@ -46,7 +46,7 @@ class PostListing extends React.Component {
             return (
               <Link to={post.path} key={`${post.title}_post`} className="post-card__link-col">
               <div className="post-card__hero__col" style={style} key={post.title}>
-                <div class="post-card__overlay">
+                <div className="post-card__overlay">
                   <p className="post-card__complementary">
                     <span className="post-card__tag">{post.tags}</span>
                   </p> 

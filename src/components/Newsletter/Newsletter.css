@@ -75,20 +75,8 @@
 
 /*** MEDIA QUERIES ***/
 
-@media screen and (max-width: 1280px) {
-	.newsletter-container {
-       max-width: calc(100% - 60px);
-	}
-
-}
-
 @media screen and (max-width: 1080px) {
 	.newsletter-container {
-       max-width: calc(100% - 60px);
-       flex-direction: column;
-       align-items: center;
-       justify-content: center;
-       background: url('/icons/cover.svg');
        padding: 1em;
        height: auto;
     }
