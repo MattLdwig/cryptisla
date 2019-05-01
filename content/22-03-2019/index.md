@@ -1,6 +1,6 @@
 ---
 title: "5 exchanges pour trader les cryptos en 2019"
-cover: "/img/posts_cover/test.jpg"
+cover: "/img/posts_cover/exchange.jpg"
 category: "guides"
 date: "2019/03/22"
 slug: "quel-exchange-pour-trader-cryptos"

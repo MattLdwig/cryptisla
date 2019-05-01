@@ -1,6 +1,6 @@
 ---
 title: "Les bougies japonaises: les principaux patterns"
-cover: "/img/posts_cover/test.jpg"
+cover: "/img/posts_cover/financial.jpg"
 category: "trading"
 date: "2019/04/08"
 slug: "bougies-japonaises-principaux-patterns"

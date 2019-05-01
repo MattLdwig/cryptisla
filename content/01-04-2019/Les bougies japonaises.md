@@ -1,6 +1,6 @@
 ---
 title: "Les bougies japonaises: la lecture des bougies."
-cover: "/img/posts_cover/test.jpg"
+cover: "/img/posts_cover/financial.jpg"
 category: "trading"
 date: "2019/04/01"
 slug: "comprendre-bougies-japonaise-partie-lecture-bougies"

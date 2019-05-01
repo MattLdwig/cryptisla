@@ -1,6 +1,6 @@
 ---
 title: "5 erreurs de débutant à éviter en commencant le trading"
-cover: "/img/posts_cover/test.jpg"
+cover: "/img/posts_cover/bug.jpg"
 category: "trading"
 date: "2019/03/20"
 slug: "erreurs-debutant-trading"

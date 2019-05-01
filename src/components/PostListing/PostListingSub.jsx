@@ -47,7 +47,7 @@ class PostListingSub extends React.Component {
         <div className="post-listing__container_col">
             {/* Your post list here. */
             postList.map(post => {
-            if (post !== postList[0] && post !== postList[1] && post !== postList[2] && post !== postList[3]) {
+            if (post !== postList[0] && post !== postList[1] && post !== postList[2] && post !== postList[3] && post !== postList[4]) {
             return (
                 <div className="post-card_col" key={post.title}> 
                     <Link to={post.path} key={`${post.title}_sub`} className="post-card_col-link">

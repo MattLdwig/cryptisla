@@ -60,6 +60,7 @@
 
 .post-card__hero-title {
     font-size: 28px;
+    background: rgba(49,57,163,0.7);
 }
 
 .post-card__hero__col h1 {
